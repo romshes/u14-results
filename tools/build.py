@@ -88,7 +88,9 @@ page = open(ROOT / "tools" / "template.html", encoding="utf-8").read()
 subs = {"__DATA__": js(data), "__META__": js(META), "__NOTES__": NOTES,
         "__STATIC__": '<p class="noscript static">Sorting and filters need JavaScript. Open this page in a web browser.</p>',
         "__STATIC_CSS__": "", "__SEASON__": meta["season"], "__PLAYED__": f"{len(rows):,}",
-        "__SCHEDULED__": f"{scheduled:,}", "__ASOF__": nice_day(newest)}
+        "__SCHEDULED__": f"{scheduled:,}", "__ASOF__": nice_day(newest),
+        "__PLAYERS_LINK__": ('\n    <p class="lede"><a href="players.html" style="color:var(--ink);font-weight:600">'
+                             'U14 fullback stats from Taka →</a></p>') if (ROOT / "players.html").exists() else ""}
 for k, v in subs.items():
     assert page.count(k) == 1, f"placeholder {k} missing or repeated in template"
     page = page.replace(k, v)

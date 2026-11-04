@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>U14 fullbacks: Taka clip stats</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=IBM+Plex+Sans+Condensed:wght@400;500;600;700&display=swap">
+<style>
+:root{
+  --bg:#EEF2EE;--surface:#FAFCFA;--ink:#123524;--muted:#556A5C;--line:#D3DDD5;--tile:#123524;--tile-ink:#F4FAF6;
+  --hl-bg:#DCEBE0;--pin-bg:#FFF1B0;--pin-edge:#B98A00;--bar:#13853F;--bar-bg:#D3DDD5;--avg:#123524;
+  --font-display:"Big Shoulders Display","Arial Narrow","Roboto Condensed",sans-serif;
+  --font-body:"IBM Plex Sans Condensed","Arial Narrow","Roboto Condensed",system-ui,sans-serif;color-scheme:light}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#0B1711;--surface:#0F2018;--ink:#E1EBE4;--muted:#93A699;--line:#25392D;--tile:#2A5A41;--tile-ink:#F4FAF6;
+  --hl-bg:#1D3D2C;--pin-bg:#3A3410;--pin-edge:#E0B020;--bar:#2DB45E;--bar-bg:#25392D;--avg:#E1EBE4;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.45 var(--font-body)}
+.page{max-width:1240px;margin:0 auto;padding:16px 16px 56px;display:flex;flex-direction:column;gap:14px}
+a{color:var(--ink);text-underline-offset:2px}
+.back{font-size:.875rem;font-weight:600}
+h1{margin:0;font:800 clamp(2rem,6.4vw,3.6rem)/.93 var(--font-display);text-wrap:balance}
+h2{margin:0;font:800 1.7rem/1 var(--font-display)}
+.lede{margin:6px 0 0;font-size:.9375rem;color:var(--muted);max-width:68ch}
+.lede b{color:var(--ink);font-variant-numeric:tabular-nums}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.focus{border:1.5px solid var(--pin-edge)}
+.focus .sub{margin:4px 0 12px;color:var(--muted);font-size:.875rem}
+.bars{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px 22px}
+.bar{display:grid;grid-template-columns:1fr auto;gap:2px 8px;font-size:.875rem}
+.bar .lbl{font-weight:600}
+.bar .val{font-variant-numeric:tabular-nums;color:var(--muted)}
+.bar .val b{color:var(--ink)}
+.track{grid-column:1/-1;position:relative;height:10px;border-radius:5px;background:var(--bar-bg)}
+.track i{position:absolute;inset:0 auto 0 0;border-radius:5px;background:var(--bar)}
+.track s{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--avg);left:50%}
+.legend{margin:10px 0 0;font-size:.8125rem;color:var(--muted)}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+input[type=search],select{font:500 16px/1.2 var(--font-body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:0 12px;min-height:44px}
+input[type=search]{flex:1 1 220px;min-width:0}
+.seg{display:inline-flex;border:1.5px solid var(--ink);border-radius:12px;padding:3px;background:var(--surface)}
+.seg button{font:600 .9375rem/1 var(--font-body);border:0;background:transparent;color:var(--ink);min-height:38px;padding:0 12px;border-radius:9px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.count{font-size:.875rem;color:var(--muted)}
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:.875rem;font-variant-numeric:tabular-nums}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+th:first-child,td:first-child,th.l,td.l{text-align:left}
+td:first-child{position:sticky;left:0;background:var(--surface);max-width:46vw;overflow:hidden;text-overflow:ellipsis}
+th{position:sticky;top:0;background:var(--surface);font-weight:600;cursor:pointer;user-select:none;z-index:1}
+th:first-child{left:0;z-index:2}
+th[aria-sort] {background:var(--hl-bg)}
+td.sorted{background:var(--hl-bg)}
+tr.me td{background:var(--pin-bg)!important;font-weight:700}
+td .club{display:block;font-size:.75rem;color:var(--muted);font-weight:400;overflow:hidden;text-overflow:ellipsis}
+.notes{display:flex;flex-direction:column;gap:8px;max-width:76ch;font-size:.8125rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}
+.notes p{margin:0}.notes strong{color:var(--ink);font-weight:600}
+.empty{padding:18px;text-align:center;color:var(--muted)}
+</style>
+</head>
+<body>
+<main class="page">
+  <a class="back" href="./">← U14 Homegrown Division results</a>
+  <header>
+    <h1>U14 fullbacks on Taka</h1>
+    <p class="lede"><b>__COUNT__</b> MLS NEXT U14 fullbacks (__NRB__ right backs, __NLB__ left backs) and their Taka highlight clips by skill category. Updated __ASOF__.</p>
+  </header>
+
+  <section class="card focus" id="focus" hidden>
+    <h2 id="focusname"></h2>
+    <p class="sub" id="focussub"></p>
+    <div class="bars" id="bars"></div>
+    <p class="legend">Bar = percentile among the other fullbacks, per game with highlights. The line marks the middle (50th percentile). Numbers: his clips per game, then the fullback average.</p>
+  </section>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Find a player or club" aria-label="Find a player or club" autocomplete="off">
+    <div class="seg" role="group" aria-label="Position">
+      <button type="button" data-pos="" aria-pressed="true">All</button>
+      <button type="button" data-pos="RB" aria-pressed="false">RB</button>
+      <button type="button" data-pos="LB" aria-pressed="false">LB</button>
+    </div>
+    <div class="seg" role="group" aria-label="Numbers">
+      <button type="button" data-mode="pg" aria-pressed="true">Per game</button>
+      <button type="button" data-mode="tot" aria-pressed="false">Totals</button>
+    </div>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tablewrap"><table id="tbl"><thead></thead><tbody></tbody></table></div>
+
+  <footer class="notes">
+    <p><strong>What these numbers are.</strong> Taka's AI tags each player's actions in filmed games and turns them into highlight clips. The figures are clip counts per category: how often Taka's AI flagged an action, not minutes, verified actions, or a rating of ability. One clip can carry several tags, so categories overlap. Players whose clubs film more games, or whose games got Taka's Advanced Analysis, have more clips; per-game numbers soften that but do not remove it.</p>
+    <p><strong>Per game</strong> divides by the number of games that produced highlights for that player. Tap a column heading to sort; tap again to reverse.</p>
+    <p><strong>Source.</strong> Public player profiles on <a href="https://taka.io">taka.io</a>, MLS NEXT U14, 2026–27 season, positions Right Defense and Left Defense. __HIDDEN__ profiles that were private or unavailable are left out. Only clip statistics are shown here; personal details from the profiles are not.</p>
+  </footer>
+</main>
+<script>
+const DATA=__DATA__, COLS=__COLS__, SUBTAGS=__SUBTAGS__, PCT=__PCT__, FOCUS=__FOCUS__;
+const $=s=>document.querySelector(s);
+let pos="", mode="pg", q="", sortKey="tot", dir=-1;
+const fmt=v=>v==null?"–":(mode==="pg"?(Math.round(v*10)/10).toFixed(1):String(v));
+const val=(p,k)=>{let v=k==="g"?p.g:(SUBTAGS.includes(k)?(p.sub?p.sub[k]:null):p[k]);
+  if(v==null)return null; if(mode==="pg"&&k!=="g")return p.g?v/p.g:null; return v;};
+const columns=()=>[{k:"g",l:"Games"},{k:"tot",l:"All clips"},...COLS,...SUBTAGS.map(t=>({k:t,l:t}))];
+
+function focusCard(){
+  if(!FOCUS||!PCT.length)return;
+  const me=DATA.find(p=>p.f); $("#focus").hidden=false; $("#focusname").textContent=FOCUS;
+  $("#focussub").textContent=[me.c,me.p,me.g?me.g+" games with highlights":""].filter(Boolean).join(" · ")+` · compared with ${PCT[0].n} fullbacks`;
+  $("#bars").innerHTML=PCT.map(x=>`<div class="bar"><span class="lbl">${x.k}</span><span class="val"><b>${x.v.toFixed(2)}</b> vs ${x.avg.toFixed(2)} · ${x.p}th pct</span><div class="track" role="img" aria-label="${x.k}: ${x.p}th percentile"><i style="width:${x.p}%"></i><s></s></div></div>`).join("");
+}
+function render(){
+  const cols=columns();
+  $("#tbl thead").innerHTML="<tr><th class=l data-k=n>Player</th><th class=l data-k=p>Pos</th>"+cols.map(c=>`<th data-k="${c.k}">${c.l}</th>`).join("")+"</tr>";
+  const th=[...document.querySelectorAll("#tbl th")].find(t=>t.dataset.k===sortKey); if(th)th.setAttribute("aria-sort",dir<0?"descending":"ascending");
+  const ql=q.toLowerCase();
+  let rows=DATA.filter(p=>(!pos||p.p.includes(pos))&&(!ql||(p.n+" "+p.c+" "+p.t).toLowerCase().includes(ql)));
+  rows.sort((a,b)=>{let x=sortKey==="n"||sortKey==="p"?a[sortKey]:val(a,sortKey), y=sortKey==="n"||sortKey==="p"?b[sortKey]:val(b,sortKey);
+    if(x==null&&y==null)return 0; if(x==null)return 1; if(y==null)return -1;
+    return (typeof x==="string"?x.localeCompare(y):x-y)*dir;});
+  $("#count").textContent=`${rows.length} of ${DATA.length}`;
+  $("#tbl tbody").innerHTML=rows.length?rows.map(p=>`<tr class="${p.f?"me":""}"><td><a href="${p.u}" target="_blank" rel="noopener">${esc(p.n)}</a><span class=club>${esc(p.c)}</span></td><td class=l>${p.p}</td>`+
+    cols.map(c=>{const v=c.k==="g"?p.g:val(p,c.k);return `<td class="${c.k===sortKey?"sorted":""}">${c.k==="g"?(v??"–"):fmt(v)}</td>`}).join("")+"</tr>").join("")
+    :`<tr><td colspan="${cols.length+2}" class=empty>No players match.</td></tr>`;
+}
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+$("#tbl thead").addEventListener("click",e=>{const k=e.target.closest("th")?.dataset.k;if(!k)return;
+  if(k===sortKey)dir=-dir;else{sortKey=k;dir=(k==="n"||k==="p")?1:-1;}render();});
+$("#q").addEventListener("input",e=>{q=e.target.value;render();});
+document.querySelectorAll("[data-pos]").forEach(b=>b.onclick=()=>{pos=b.dataset.pos;document.querySelectorAll("[data-pos]").forEach(x=>x.setAttribute("aria-pressed",x===b));render();});
+document.querySelectorAll("[data-mode]").forEach(b=>b.onclick=()=>{mode=b.dataset.mode;document.querySelectorAll("[data-mode]").forEach(x=>x.setAttribute("aria-pressed",x===b));render();});
+focusCard(); render();
+</script>
+</body>
+</html>
