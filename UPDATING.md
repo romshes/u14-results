@@ -9,37 +9,33 @@ The live page is https://romshes.github.io/u14-results/ (GitHub Pages serves `ma
 
 1. Work in the repo root and make sure it is current: `git pull --ff-only`.
 
-2. For each conference in `data/meta.json` (8 of them), fetch
-   `https://leaguetables-soccer.pages.dev/mls-next-homegrown-division/u14/<slug>` with WebFetch.
-   Send all 8 fetches at once, each with exactly this prompt:
+2. Clear old fetch files: `rm -rf data/fetch && mkdir -p data/fetch`.
+
+3. Fetch the 8 conferences (in `data/meta.json`). WebFetch returns only the first ~39,000 characters of a page
+   word for word and summarizes the rest unreliably; a conference page is ~80,000 characters, so its match list
+   is cut off. Results are therefore read from the **team pages** (~20,000 characters each, returned in full).
+   Start 8 general-purpose agents at once, one per conference, each with this brief (fill in name and slug):
 
    ```
-   Extract data verbatim, no commentary, no summarizing, do not skip any rows.
-   PART 1 — every COMPLETED match (has a final score) as lines, one per match: date(YYYY-MM-DD)|time|home team|home goals|away goals|away team|venue|match type. List ALL completed matches on the page.
-   PART 2 — the standings table: first the header labels exactly in the page's column order, then every row in that same order, | separated.
-   PART 3 — total matches the page states, the 'data as of' timestamp, and how many matches are marked 'Score pending'.
+   Read tools/FETCH_CONFERENCE.md in the repo and follow it exactly for Conference "<Conference>",
+   slug "<slug>". Use WebFetch for every page. Write the output to data/fetch/<slug>.txt with the Write tool.
+   Do not edit any other file and do not run git. Reply with the one-line summary the brief asks for.
    ```
 
-3. Write what came back, replacing the old contents:
-   - `data/raw_matches.txt`: a `=== <Conference>` line for each conference (names as in meta.json), then one
-     line per completed match: `YYYY-MM-DD|h:mm AM|PM TZ|Home|home goals|away goals|Away|Venue|Type`
-     (for example `2026-10-25|3:00 PM EDT|New York City FC|14|2|The Island FC East|Da Silva Memorial Field|League`).
-     Copy team names and venues exactly. Only matches with a final score; skip "Score pending" and scheduled ones.
-   - `data/raw_standings.txt`: keep the `# team|PTS|MP|W|T|L|GF|GA` line, then a `=== <Conference>` line and one row
-     per team as `team|PTS|MP|W|T|L|GF|GA`. The source lists W, T, L in that order, but check the header labels
-     WebFetch returns and reorder to match; a row's points must equal 3×W + T.
-   - `data/meta.json`: for each conference update `total` (matches the page says it has), `pending`
-     (matches marked "Score pending") and `as_of` (the page's "data as of" time, as `YYYY-MM-DD HH:MM UTC`).
+   When all 8 are back, run `python3 tools/assemble.py`. It merges the two team-page copies of every game,
+   reports any disagreement between them, and rewrites `data/raw_matches.txt`, `data/raw_standings.txt` and the
+   `total` / `pending` / `as_of` values in `data/meta.json`. A conference whose fetch file is missing keeps its old
+   data. If it prints a PROBLEM, re-run that conference's agent once (for a team-page disagreement, ask it to
+   re-fetch the two teams involved) and assemble again; if it still fails, stop and report.
 
 4. Run `python3 tools/validate.py`.
-   - If teams in a conference differ from the standings, re-fetch that conference asking for every match
-     involving those teams (date, time, home, score, away, venue, any status label), fix copying mistakes in
-     `raw_matches.txt`, and run it again. A game the source counts in its standings but never lists cannot be
+   - If teams in a conference differ from the standings, re-fetch those teams' pages (step 3 brief, only
+     those teams, updating their sections in `data/fetch/<slug>.txt`), run `tools/assemble.py` and validate again. A game the source counts in its standings but never lists cannot be
      fixed; leave it (validate allows up to 4 such teams, each within one game).
    - If it still exits with an error, stop. Do not build or push; report the problems.
 
 5. If `git diff --quiet data/raw_matches.txt` says the results are unchanged, discard everything
-   (`git checkout -- .`) and stop: there is nothing new to publish.
+   (`git checkout -- . && rm -rf data/fetch`) and stop: there is nothing new to publish.
 
 6. Run `python3 tools/build.py`, then `python3 tools/check_page.py`. If the check fails, stop and report; do not push.
 
