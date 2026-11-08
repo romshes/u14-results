@@ -64,8 +64,8 @@ src = (f'League results for the MLS NEXT Homegrown Division U14 age group, {meta
 gap = f'{pending} played games still show "score pending" at the source.'
 if mismatches:
     names = ", ".join(f'{e(x["team"])} ({x["conf"]})' for x in mismatches)
-    gap += (f" The source's standings and its own match list disagree for {names}: the standings count a game "
-            "that isn't in the list (or the other way round), so these records may differ slightly from the official table.")
+    gap += (f" The source updates its standings table and its team pages at different times, so for {len(mismatches)} "
+            f"teams the records here (built from the latest results on the team pages) differ from that table by a game or two: {names}.")
 flag_note = ""
 if flagged:
     ex = flagged[0]

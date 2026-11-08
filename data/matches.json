@@ -2,23 +2,23 @@
  {
   "conf": "Florida",
   "date": "2026-09-05",
-  "time": "1:00 PM EDT",
-  "home": "Miami Futbol Academy Rush",
-  "hg": 5,
-  "ag": 1,
-  "away": "West Florida Flames",
-  "venue": "Miami Dade College - Kendall Campus - Field 3",
-  "type": "League"
- },
- {
-  "conf": "Florida",
-  "date": "2026-09-05",
   "time": "12:00 PM EDT",
   "home": "Orlando City Soccer School South",
   "hg": 5,
   "ag": 1,
   "away": "Tampa Bay United",
   "venue": "Northeast Regional Park - Field 3",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-09-05",
+  "time": "1:00 PM EDT",
+  "home": "Miami Futbol Academy Rush",
+  "hg": 5,
+  "ag": 1,
+  "away": "West Florida Flames",
+  "venue": "Miami Dade College - Kendall Campus - Field 3",
   "type": "League"
  },
  {
@@ -47,22 +47,22 @@
   "conf": "Florida",
   "date": "2026-09-12",
   "time": "1:00 PM EDT",
-  "home": "Weston FC",
-  "hg": 11,
-  "ag": 1,
-  "away": "Seminole United",
-  "venue": "Vista Park - Vista #4",
+  "home": "IMG",
+  "hg": 3,
+  "ag": 0,
+  "away": "Sol SC Florida",
+  "venue": "IMG Academy Field - #2",
   "type": "League"
  },
  {
   "conf": "Florida",
   "date": "2026-09-12",
   "time": "1:00 PM EDT",
-  "home": "IMG",
-  "hg": 3,
-  "ag": 0,
-  "away": "Sol SC Florida",
-  "venue": "IMG Academy Field - #2",
+  "home": "Weston FC",
+  "hg": 11,
+  "ag": 1,
+  "away": "Seminole United",
+  "venue": "Vista Park - Vista #4",
   "type": "League"
  },
  {
@@ -189,23 +189,23 @@
  {
   "conf": "Florida",
   "date": "2026-09-26",
-  "time": "1:00 PM EDT",
-  "home": "IMG",
-  "hg": 3,
-  "ag": 2,
-  "away": "Tampa Bay United",
-  "venue": "IMG Academy Field - #2",
-  "type": "League"
- },
- {
-  "conf": "Florida",
-  "date": "2026-09-26",
   "time": "12:00 PM EDT",
   "home": "West Florida Flames",
   "hg": 0,
   "ag": 2,
   "away": "Jacksonville FC",
   "venue": "JC Handly Sport Complex - JC Handly Park # 7",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-09-26",
+  "time": "1:00 PM EDT",
+  "home": "IMG",
+  "hg": 3,
+  "ag": 2,
+  "away": "Tampa Bay United",
+  "venue": "IMG Academy Field - #2",
   "type": "League"
  },
  {
@@ -234,17 +234,6 @@
   "conf": "Florida",
   "date": "2026-09-26",
   "time": "9:00 AM EDT",
-  "home": "South Florida Football Academy",
-  "hg": 0,
-  "ag": 2,
-  "away": "Miami Futbol Academy Rush",
-  "venue": "Loggers Run Park - Field # 1",
-  "type": "League"
- },
- {
-  "conf": "Florida",
-  "date": "2026-09-26",
-  "time": "9:00 AM EDT",
   "home": "Orlando City SC",
   "hg": 0,
   "ag": 0,
@@ -254,13 +243,13 @@
  },
  {
   "conf": "Florida",
-  "date": "2026-09-27",
-  "time": "12:00 PM EDT",
-  "home": "Orlando City SC",
-  "hg": 4,
-  "ag": 0,
-  "away": "Seminole United",
-  "venue": "Osceola Heritage Park - Turf Field/3",
+  "date": "2026-09-26",
+  "time": "9:00 AM EDT",
+  "home": "South Florida Football Academy",
+  "hg": 0,
+  "ag": 2,
+  "away": "Miami Futbol Academy Rush",
+  "venue": "Loggers Run Park - Field # 1",
   "type": "League"
  },
  {
@@ -276,13 +265,13 @@
  },
  {
   "conf": "Florida",
-  "date": "2026-10-03",
-  "time": "1:00 PM EDT",
-  "home": "Athletum FC Academy",
-  "hg": 6,
-  "ag": 1,
-  "away": "West Florida Flames",
-  "venue": "JCC Posnack - Stadium Field",
+  "date": "2026-09-27",
+  "time": "12:00 PM EDT",
+  "home": "Orlando City SC",
+  "hg": 4,
+  "ag": 0,
+  "away": "Seminole United",
+  "venue": "Osceola Heritage Park - Turf Field/3",
   "type": "League"
  },
  {
@@ -294,6 +283,17 @@
   "ag": 2,
   "away": "Weston FC",
   "venue": "Patton Park Field #12",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-10-03",
+  "time": "1:00 PM EDT",
+  "home": "Athletum FC Academy",
+  "hg": 6,
+  "ag": 1,
+  "away": "West Florida Flames",
+  "venue": "JCC Posnack - Stadium Field",
   "type": "League"
  },
  {
@@ -398,12 +398,12 @@
  {
   "conf": "Florida",
   "date": "2026-10-18",
-  "time": "1:00 PM EDT",
-  "home": "West Florida Flames",
+  "time": "11:00 AM EDT",
+  "home": "IMG",
   "hg": 0,
-  "ag": 3,
-  "away": "Weston FC",
-  "venue": "JC Handly Sport Complex - JC Handly Park # 9",
+  "ag": 1,
+  "away": "Orlando City Soccer School South",
+  "venue": "IMG Academy Field - 7",
   "type": "League"
  },
  {
@@ -420,12 +420,12 @@
  {
   "conf": "Florida",
   "date": "2026-10-18",
-  "time": "11:00 AM EDT",
-  "home": "IMG",
+  "time": "1:00 PM EDT",
+  "home": "West Florida Flames",
   "hg": 0,
-  "ag": 1,
-  "away": "Orlando City Soccer School South",
-  "venue": "IMG Academy Field - 7",
+  "ag": 3,
+  "away": "Weston FC",
+  "venue": "JC Handly Sport Complex - JC Handly Park # 9",
   "type": "League"
  },
  {
@@ -437,17 +437,6 @@
   "ag": 4,
   "away": "Tampa Bay United",
   "venue": "Seminole Soccer Complex - Field 5",
-  "type": "League"
- },
- {
-  "conf": "Florida",
-  "date": "2026-10-24",
-  "time": "1:00 PM EDT",
-  "home": "Tampa Bay United",
-  "hg": 1,
-  "ag": 3,
-  "away": "Orlando City SC",
-  "venue": "Ed Radice Sports Complex - Field 9 (Stadium)",
   "type": "League"
  },
  {
@@ -470,6 +459,17 @@
   "ag": 2,
   "away": "Miami Futbol Academy Rush",
   "venue": "Patton Park - Turf Field",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-10-24",
+  "time": "1:00 PM EDT",
+  "home": "Tampa Bay United",
+  "hg": 1,
+  "ag": 3,
+  "away": "Orlando City SC",
+  "venue": "Ed Radice Sports Complex - Field 9 (Stadium)",
   "type": "League"
  },
  {
@@ -503,6 +503,94 @@
   "ag": 4,
   "away": "Seminole United",
   "venue": "Loggers Run Park - Field # 2",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-10-31",
+  "time": "10:00 AM EDT",
+  "home": "Weston FC",
+  "hg": 3,
+  "ag": 0,
+  "away": "Athletum FC Academy",
+  "venue": "Vista Park - Vista #4",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-10-31",
+  "time": "12:00 PM EDT",
+  "home": "Sol SC Florida",
+  "hg": 4,
+  "ag": 1,
+  "away": "Seminole United",
+  "venue": "The National Training Center - NTC 4",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-10-31",
+  "time": "1:00 PM EDT",
+  "home": "West Florida Flames",
+  "hg": 4,
+  "ag": 1,
+  "away": "South Florida Football Academy",
+  "venue": "JC Handly Sport Complex - JC Handly Park # 7",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-10-31",
+  "time": "3:00 PM EDT",
+  "home": "IMG",
+  "hg": 0,
+  "ag": 2,
+  "away": "IdeaSport SA",
+  "venue": "IMG Academy Field - 1",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-10-31",
+  "time": "3:00 PM EDT",
+  "home": "Miami Futbol Academy Rush",
+  "hg": 1,
+  "ag": 0,
+  "away": "One FC",
+  "venue": "Kendall Soccer Park - 3",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-11-01",
+  "time": "10:00 AM EST",
+  "home": "West Florida Flames",
+  "hg": 4,
+  "ag": 0,
+  "away": "IMG",
+  "venue": "JC Handly Sport Complex - JC Handly Park # 7",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-11-01",
+  "time": "2:00 PM EST",
+  "home": "One FC",
+  "hg": 1,
+  "ag": 3,
+  "away": "Orlando City SC",
+  "venue": "Little Haiti Soccer Park - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-11-04",
+  "time": "6:00 PM EST",
+  "home": "Orlando City SC",
+  "hg": 4,
+  "ag": 1,
+  "away": "Orlando City Soccer School South",
+  "venue": "Osceola Heritage Park - Turf Field/3",
   "type": "League"
  },
  {
@@ -849,6 +937,17 @@
  {
   "conf": "Frontier",
   "date": "2026-10-24",
+  "time": "2:00 PM CDT",
+  "home": "Tulsa Greenwood SC",
+  "hg": 1,
+  "ag": 0,
+  "away": "AC River",
+  "venue": "Ascension St. John Sportsplex - Field 9",
+  "type": "League"
+ },
+ {
+  "conf": "Frontier",
+  "date": "2026-10-24",
   "time": "4:30 PM CDT",
   "home": "Houston Dynamo FC",
   "hg": 5,
@@ -992,6 +1091,17 @@
  {
   "conf": "Mid-America",
   "date": "2026-09-12",
+  "time": "10:00 AM EDT",
+  "home": "FC Cincinnati",
+  "hg": 2,
+  "ag": 1,
+  "away": "Cincinnati United Soccer Club",
+  "venue": "Milford High School - Charity Lucas Soccer Field",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-09-12",
   "time": "1:00 PM EDT",
   "home": "AC Grand Rapids",
   "hg": 4,
@@ -1009,17 +1119,6 @@
   "ag": 2,
   "away": "Michigan Wolves",
   "venue": "Grand Park Sports Campus - Field 4",
-  "type": "League"
- },
- {
-  "conf": "Mid-America",
-  "date": "2026-09-12",
-  "time": "10:00 AM EDT",
-  "home": "FC Cincinnati",
-  "hg": 2,
-  "ag": 1,
-  "away": "Cincinnati United Soccer Club",
-  "venue": "Milford High School - Charity Lucas Soccer Field",
   "type": "League"
  },
  {
@@ -1047,17 +1146,6 @@
  {
   "conf": "Mid-America",
   "date": "2026-09-13",
-  "time": "1:15 PM EDT",
-  "home": "Indy Eleven",
-  "hg": 2,
-  "ag": 0,
-  "away": "Vardar Soccer Club",
-  "venue": "Grand Park Sports Campus - Field 4",
-  "type": "League"
- },
- {
-  "conf": "Mid-America",
-  "date": "2026-09-13",
   "time": "10:00 AM EDT",
   "home": "FC Cincinnati",
   "hg": 4,
@@ -1075,6 +1163,17 @@
   "ag": 2,
   "away": "SC Wave",
   "venue": "Midwest United FC Complex - North Field",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-09-13",
+  "time": "1:15 PM EDT",
+  "home": "Indy Eleven",
+  "hg": 2,
+  "ag": 0,
+  "away": "Vardar Soccer Club",
+  "venue": "Grand Park Sports Campus - Field 4",
   "type": "League"
  },
  {
@@ -1212,23 +1311,23 @@
  {
   "conf": "Mid-America",
   "date": "2026-09-26",
-  "time": "1:00 PM CDT",
-  "home": "Chicago FC United",
-  "hg": 0,
-  "ag": 1,
-  "away": "Michigan Jaguars",
-  "venue": "Vernon Hills Athletic Complex - Field #10 (Turf)",
-  "type": "League"
- },
- {
-  "conf": "Mid-America",
-  "date": "2026-09-26",
   "time": "12:00 PM CDT",
   "home": "Sockers FC Chicago",
   "hg": 1,
   "ag": 1,
   "away": "Sporting City",
   "venue": "Bridgeview Sports Fields - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-09-26",
+  "time": "1:00 PM CDT",
+  "home": "Chicago FC United",
+  "hg": 0,
+  "ag": 1,
+  "away": "Michigan Jaguars",
+  "venue": "Vernon Hills Athletic Complex - Field #10 (Turf)",
   "type": "League"
  },
  {
@@ -1246,17 +1345,6 @@
   "conf": "Mid-America",
   "date": "2026-09-26",
   "time": "9:00 AM CDT",
-  "home": "St. Louis Scott Gallagher",
-  "hg": 2,
-  "ag": 1,
-  "away": "Vardar Soccer Club",
-  "venue": "World Wide Technology Soccer Park - Field 5",
-  "type": "League"
- },
- {
-  "conf": "Mid-America",
-  "date": "2026-09-26",
-  "time": "9:00 AM CDT",
   "home": "Lou Fusz Athletic",
   "hg": 0,
   "ag": 1,
@@ -1266,13 +1354,13 @@
  },
  {
   "conf": "Mid-America",
-  "date": "2026-09-27",
-  "time": "1:30 PM EDT",
-  "home": "Club Ohio",
+  "date": "2026-09-26",
+  "time": "9:00 AM CDT",
+  "home": "St. Louis Scott Gallagher",
   "hg": 2,
-  "ag": 5,
-  "away": "AC Grand Rapids",
-  "venue": "Dublin Coffman High School - The Rock",
+  "ag": 1,
+  "away": "Vardar Soccer Club",
+  "venue": "World Wide Technology Soccer Park - Field 5",
   "type": "League"
  },
  {
@@ -1295,6 +1383,17 @@
   "ag": 1,
   "away": "Vardar Soccer Club",
   "venue": "SportPort Complex - Field 9",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-09-27",
+  "time": "1:30 PM EDT",
+  "home": "Club Ohio",
+  "hg": 2,
+  "ag": 5,
+  "away": "AC Grand Rapids",
+  "venue": "Dublin Coffman High School - The Rock",
   "type": "League"
  },
  {
@@ -1344,17 +1443,6 @@
  {
   "conf": "Mid-America",
   "date": "2026-10-03",
-  "time": "1:00 PM CDT",
-  "home": "Chicago FC United",
-  "hg": 2,
-  "ag": 5,
-  "away": "SC Wave",
-  "venue": "Waukegan Sports Park - Grass Field #11",
-  "type": "League"
- },
- {
-  "conf": "Mid-America",
-  "date": "2026-10-03",
   "time": "10:00 AM EDT",
   "home": "FC Cincinnati",
   "hg": 1,
@@ -1372,6 +1460,17 @@
   "ag": 1,
   "away": "AC Grand Rapids",
   "venue": "Bridgeview Sports Fields - Field 3",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-10-03",
+  "time": "1:00 PM CDT",
+  "home": "Chicago FC United",
+  "hg": 2,
+  "ag": 5,
+  "away": "SC Wave",
+  "venue": "Waukegan Sports Park - Grass Field #11",
   "type": "League"
  },
  {
@@ -1564,28 +1663,6 @@
  {
   "conf": "Mid-America",
   "date": "2026-10-24",
-  "time": "1:15 PM EDT",
-  "home": "Indy Eleven",
-  "hg": 3,
-  "ag": 5,
-  "away": "Chicago FC United",
-  "venue": "Grand Park Sports Campus - Field 28",
-  "type": "League"
- },
- {
-  "conf": "Mid-America",
-  "date": "2026-10-24",
-  "time": "1:45 PM EDT",
-  "home": "Club Ohio",
-  "hg": 1,
-  "ag": 2,
-  "away": "Michigan Jaguars",
-  "venue": "Kilbourne Run Sports Turf #5",
-  "type": "League"
- },
- {
-  "conf": "Mid-America",
-  "date": "2026-10-24",
   "time": "11:00 AM CDT",
   "home": "SC Wave",
   "hg": 1,
@@ -1608,34 +1685,34 @@
  {
   "conf": "Mid-America",
   "date": "2026-10-24",
+  "time": "1:15 PM EDT",
+  "home": "Indy Eleven",
+  "hg": 3,
+  "ag": 5,
+  "away": "Chicago FC United",
+  "venue": "Grand Park Sports Campus - Field 28",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-10-24",
+  "time": "1:45 PM EDT",
+  "home": "Club Ohio",
+  "hg": 1,
+  "ag": 2,
+  "away": "Michigan Jaguars",
+  "venue": "Kilbourne Run Sports Turf #5",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-10-24",
   "time": "2:00 PM EDT",
   "home": "Hoosier Premier",
   "hg": 2,
   "ag": 4,
   "away": "Midwest United FC",
   "venue": "Hoosier Futbol Club - MSMF",
-  "type": "League"
- },
- {
-  "conf": "Mid-America",
-  "date": "2026-10-25",
-  "time": "1:15 PM EDT",
-  "home": "Indy Eleven",
-  "hg": 0,
-  "ag": 3,
-  "away": "Midwest United FC",
-  "venue": "Grand Park Sports Campus - Field 28",
-  "type": "League"
- },
- {
-  "conf": "Mid-America",
-  "date": "2026-10-25",
-  "time": "1:45 PM EDT",
-  "home": "Club Ohio",
-  "hg": 3,
-  "ag": 3,
-  "away": "Lou Fusz Athletic",
-  "venue": "Kilbourne Run Sports Turf #5",
   "type": "League"
  },
  {
@@ -1674,12 +1751,122 @@
  {
   "conf": "Mid-America",
   "date": "2026-10-25",
+  "time": "1:15 PM EDT",
+  "home": "Indy Eleven",
+  "hg": 0,
+  "ag": 3,
+  "away": "Midwest United FC",
+  "venue": "Grand Park Sports Campus - Field 28",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-10-25",
+  "time": "1:45 PM EDT",
+  "home": "Club Ohio",
+  "hg": 3,
+  "ag": 3,
+  "away": "Lou Fusz Athletic",
+  "venue": "Kilbourne Run Sports Turf #5",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-10-25",
   "time": "9:00 AM EDT",
   "home": "Vardar Soccer Club",
   "hg": 2,
   "ag": 0,
   "away": "Sporting City",
   "venue": "Oakland University Dome - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-10-31",
+  "time": "10:00 AM EDT",
+  "home": "Michigan Jaguars",
+  "hg": 3,
+  "ag": 2,
+  "away": "FC Cincinnati",
+  "venue": "North Farmington High School – Training Turf",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-10-31",
+  "time": "10:00 AM EDT",
+  "home": "Michigan Wolves",
+  "hg": 1,
+  "ag": 1,
+  "away": "St. Louis City SC",
+  "venue": "Schoolcraft College - Trinity Health Sports Dome",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-10-31",
+  "time": "11:00 AM EDT",
+  "home": "AC Grand Rapids",
+  "hg": 2,
+  "ag": 0,
+  "away": "Hoosier Premier",
+  "venue": "MSA Fieldhouse #2",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-10-31",
+  "time": "1:15 PM EDT",
+  "home": "Indy Eleven",
+  "hg": 3,
+  "ag": 2,
+  "away": "Cincinnati United Soccer Club",
+  "venue": "Grand Park Sports Campus - Field 7",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-11-01",
+  "time": "10:30 AM EST",
+  "home": "AC Grand Rapids",
+  "hg": 1,
+  "ag": 4,
+  "away": "St. Louis City SC",
+  "venue": "MSA Fieldhouse #1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-11-01",
+  "time": "5:00 PM EST",
+  "home": "Vardar Soccer Club",
+  "hg": 0,
+  "ag": 6,
+  "away": "Michigan Wolves",
+  "venue": "Oakland University Dome - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-11-07",
+  "time": "10:00 AM EST",
+  "home": "FC Cincinnati",
+  "hg": 2,
+  "ag": 1,
+  "away": "Midwest United FC",
+  "venue": "Milford High School - Charity Lucas Soccer Field",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-11-07",
+  "time": "4:00 PM EST",
+  "home": "Hoosier Premier",
+  "hg": 3,
+  "ag": 4,
+  "away": "Michigan Jaguars",
+  "venue": "Hoosier Futbol Club - MSMF",
   "type": "League"
  },
  {
@@ -1751,23 +1938,23 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-09-12",
-  "time": "1:00 PM EDT",
-  "home": "FC DELCO",
-  "hg": 4,
-  "ag": 1,
-  "away": "Penn Rising XI",
-  "venue": "The Proving Grounds - 6",
-  "type": "League"
- },
- {
-  "conf": "Mid-Atlantic",
-  "date": "2026-09-12",
   "time": "10:00 AM EDT",
   "home": "Cedar Stars Academy Monmouth",
   "hg": 0,
   "ag": 7,
   "away": "Philadelphia Union",
   "venue": "Capelli Sport Complex - Field #1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-09-12",
+  "time": "1:00 PM EDT",
+  "home": "FC DELCO",
+  "hg": 4,
+  "ag": 1,
+  "away": "Penn Rising XI",
+  "venue": "The Proving Grounds - 6",
   "type": "League"
  },
  {
@@ -1785,11 +1972,11 @@
   "conf": "Mid-Atlantic",
   "date": "2026-09-13",
   "time": "10:00 AM EDT",
-  "home": "Sporting Athletic Club",
-  "hg": 3,
+  "home": "Cedar Stars Academy Monmouth",
+  "hg": 6,
   "ag": 1,
-  "away": "Springfield SYC",
-  "venue": "Chase Fields - Field 4",
+  "away": "PA Classics",
+  "venue": "Capelli Sport Complex - Field 5",
   "type": "League"
  },
  {
@@ -1807,11 +1994,11 @@
   "conf": "Mid-Atlantic",
   "date": "2026-09-13",
   "time": "10:00 AM EDT",
-  "home": "Cedar Stars Academy Monmouth",
-  "hg": 6,
+  "home": "Sporting Athletic Club",
+  "hg": 3,
   "ag": 1,
-  "away": "PA Classics",
-  "venue": "Capelli Sport Complex - Field 5",
+  "away": "Springfield SYC",
+  "venue": "Chase Fields - Field 4",
   "type": "League"
  },
  {
@@ -1850,23 +2037,23 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-09-19",
-  "time": "1:30 PM EDT",
-  "home": "Achilles FC",
-  "hg": 0,
-  "ag": 5,
-  "away": "Cedar Stars Academy Monmouth",
-  "venue": "Maryland SoccerPlex - Field 9",
-  "type": "League"
- },
- {
-  "conf": "Mid-Atlantic",
-  "date": "2026-09-19",
   "time": "12:00 PM EDT",
   "home": "Coppermine SC",
   "hg": 1,
   "ag": 0,
   "away": "PA Classics",
   "venue": "Copperplex Field #8",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-09-19",
+  "time": "1:30 PM EDT",
+  "home": "Achilles FC",
+  "hg": 0,
+  "ag": 5,
+  "away": "Cedar Stars Academy Monmouth",
+  "venue": "Maryland SoccerPlex - Field 9",
   "type": "League"
  },
  {
@@ -1889,17 +2076,6 @@
   "ag": 1,
   "away": "Bethesda SC",
   "venue": "West Springfield High School - Stadium",
-  "type": "League"
- },
- {
-  "conf": "Mid-Atlantic",
-  "date": "2026-09-20",
-  "time": "1:00 PM EDT",
-  "home": "The Football Academy",
-  "hg": 3,
-  "ag": 0,
-  "away": "Penn Rising XI",
-  "venue": "Iron Peak Sports & Events - Field 2",
   "type": "League"
  },
  {
@@ -1938,6 +2114,17 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-09-20",
+  "time": "1:00 PM EDT",
+  "home": "The Football Academy",
+  "hg": 3,
+  "ag": 0,
+  "away": "Penn Rising XI",
+  "venue": "Iron Peak Sports & Events - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-09-20",
   "time": "3:00 PM EDT",
   "home": "Coppermine SC",
   "hg": 1,
@@ -1971,12 +2158,12 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-09-26",
-  "time": "1:00 PM EDT",
-  "home": "Sporting Athletic Club",
-  "hg": 1,
-  "ag": 1,
-  "away": "Coppermine SC",
-  "venue": "Chase Fields - Field 3",
+  "time": "11:00 AM EDT",
+  "home": "PA Classics",
+  "hg": 0,
+  "ag": 3,
+  "away": "Penn Rising XI",
+  "venue": "Classics Soccer Park - Grass 1",
   "type": "League"
  },
  {
@@ -1993,23 +2180,23 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-09-26",
-  "time": "11:00 AM EDT",
-  "home": "PA Classics",
-  "hg": 0,
-  "ag": 3,
-  "away": "Penn Rising XI",
-  "venue": "Classics Soccer Park - Grass 1",
-  "type": "League"
- },
- {
-  "conf": "Mid-Atlantic",
-  "date": "2026-09-26",
   "time": "12:30 PM EDT",
   "home": "Springfield SYC",
   "hg": 1,
   "ag": 0,
   "away": "Baltimore Armour",
   "venue": "West Springfield High School - Stadium",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-09-26",
+  "time": "1:00 PM EDT",
+  "home": "Sporting Athletic Club",
+  "hg": 1,
+  "ag": 1,
+  "away": "Coppermine SC",
+  "venue": "Chase Fields - Field 3",
   "type": "League"
  },
  {
@@ -2038,22 +2225,22 @@
   "conf": "Mid-Atlantic",
   "date": "2026-09-27",
   "time": "2:00 PM EDT",
-  "home": "Beadling SC",
-  "hg": 0,
-  "ag": 6,
-  "away": "Northern Virginia Alliance",
-  "venue": "Highlands Sports Complex - Outdoor Turf",
+  "home": "Alexandria SA",
+  "hg": 1,
+  "ag": 2,
+  "away": "Sporting Athletic Club",
+  "venue": "Witter Field - Field 1",
   "type": "League"
  },
  {
   "conf": "Mid-Atlantic",
   "date": "2026-09-27",
   "time": "2:00 PM EDT",
-  "home": "Alexandria SA",
-  "hg": 1,
-  "ag": 2,
-  "away": "Sporting Athletic Club",
-  "venue": "Witter Field - Field 1",
+  "home": "Beadling SC",
+  "hg": 0,
+  "ag": 6,
+  "away": "Northern Virginia Alliance",
+  "venue": "Highlands Sports Complex - Outdoor Turf",
   "type": "League"
  },
  {
@@ -2125,23 +2312,23 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-10-04",
-  "time": "1:00 PM EDT",
-  "home": "Philadelphia Union",
-  "hg": 8,
-  "ag": 0,
-  "away": "Bethesda SC",
-  "venue": "WSFS Banks SportsPlex – Indoor",
-  "type": "League"
- },
- {
-  "conf": "Mid-Atlantic",
-  "date": "2026-10-04",
   "time": "11:30 AM EDT",
   "home": "Real Futbol Academy",
   "hg": 2,
   "ag": 0,
   "away": "Achilles FC",
   "venue": "Bob Bende Soccer Complex - Capelli Turf (Near Road)",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-10-04",
+  "time": "12:00 PM EDT",
+  "home": "Baltimore Armour",
+  "hg": 1,
+  "ag": 0,
+  "away": "Northern Virginia Alliance",
+  "venue": "Covenant Park - Field 6",
   "type": "League"
  },
  {
@@ -2158,12 +2345,12 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-10-04",
-  "time": "12:00 PM EDT",
-  "home": "Baltimore Armour",
-  "hg": 1,
+  "time": "1:00 PM EDT",
+  "home": "Philadelphia Union",
+  "hg": 8,
   "ag": 0,
-  "away": "Northern Virginia Alliance",
-  "venue": "Covenant Park - Field 6",
+  "away": "Bethesda SC",
+  "venue": "WSFS Banks SportsPlex – Indoor",
   "type": "League"
  },
  {
@@ -2235,17 +2422,6 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-10-18",
-  "time": "1:00 PM EDT",
-  "home": "Real Futbol Academy",
-  "hg": 3,
-  "ag": 0,
-  "away": "Bethesda SC",
-  "venue": "Bob Bende Soccer Complex - Capelli Turf (Near Road)",
-  "type": "League"
- },
- {
-  "conf": "Mid-Atlantic",
-  "date": "2026-10-18",
   "time": "10:00 AM EDT",
   "home": "Philadelphia Union",
   "hg": 4,
@@ -2269,6 +2445,17 @@
   "conf": "Mid-Atlantic",
   "date": "2026-10-18",
   "time": "12:00 PM EDT",
+  "home": "Beadling SC",
+  "hg": 2,
+  "ag": 2,
+  "away": "Springfield SYC",
+  "venue": "Kiski Area Prep High School - Football Stadium",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-10-18",
+  "time": "12:00 PM EDT",
   "home": "Players Development Academy",
   "hg": 1,
   "ag": 3,
@@ -2279,12 +2466,12 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-10-18",
-  "time": "12:00 PM EDT",
-  "home": "Beadling SC",
-  "hg": 2,
-  "ag": 2,
-  "away": "Springfield SYC",
-  "venue": "Kiski Area Prep High School - Football Stadium",
+  "time": "1:00 PM EDT",
+  "home": "Real Futbol Academy",
+  "hg": 3,
+  "ag": 0,
+  "away": "Bethesda SC",
+  "venue": "Bob Bende Soccer Complex - Capelli Turf (Near Road)",
   "type": "League"
  },
  {
@@ -2301,12 +2488,12 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-10-24",
-  "time": "1:00 PM EDT",
-  "home": "Bethesda SC",
-  "hg": 0,
+  "time": "11:00 AM EDT",
+  "home": "Northern Virginia Alliance",
+  "hg": 5,
   "ag": 1,
-  "away": "Coppermine SC",
-  "venue": "Maryland SoccerPlex - Field 16",
+  "away": "Players Development Academy",
+  "venue": "Loudoun Soccer Park - Field 2",
   "type": "League"
  },
  {
@@ -2323,12 +2510,12 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-10-24",
-  "time": "11:00 AM EDT",
-  "home": "Northern Virginia Alliance",
-  "hg": 5,
+  "time": "1:00 PM EDT",
+  "home": "Bethesda SC",
+  "hg": 0,
   "ag": 1,
-  "away": "Players Development Academy",
-  "venue": "Loudoun Soccer Park - Field 2",
+  "away": "Coppermine SC",
+  "venue": "Maryland SoccerPlex - Field 16",
   "type": "League"
  },
  {
@@ -2340,6 +2527,17 @@
   "ag": 0,
   "away": "Sporting Athletic Club",
   "venue": "Covenant Park - Field 6",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-10-25",
+  "time": "10:00 AM EDT",
+  "home": "Beadling SC",
+  "hg": 0,
+  "ag": 9,
+  "away": "Philadelphia Union",
+  "venue": "Southpointe Fieldhouse - Indoor Complex",
   "type": "League"
  },
  {
@@ -2395,6 +2593,127 @@
   "ag": 1,
   "away": "Cedar Stars Academy Monmouth",
   "venue": "Bob Bende Soccer Complex - Payer Matrix Turf (Near Woods)",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-10-31",
+  "time": "10:00 AM EDT",
+  "home": "Philadelphia Union",
+  "hg": 2,
+  "ag": 0,
+  "away": "The Football Academy",
+  "venue": "WSFS Bank SportsPlex - Field 5",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-10-31",
+  "time": "11:00 AM EDT",
+  "home": "Cedar Stars Academy Monmouth",
+  "hg": 2,
+  "ag": 6,
+  "away": "Northern Virginia Alliance",
+  "venue": "Capelli Sport Complex - Field #1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-01",
+  "time": "10:00 AM EST",
+  "home": "PA Classics",
+  "hg": 0,
+  "ag": 8,
+  "away": "Philadelphia Union",
+  "venue": "Classics Soccer Park - Grass 1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-01",
+  "time": "10:00 AM EST",
+  "home": "Springfield SYC",
+  "hg": 2,
+  "ag": 1,
+  "away": "Coppermine SC",
+  "venue": "Hayfield Secondary School - Auxiliary Field",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-01",
+  "time": "11:30 AM EST",
+  "home": "Beadling SC",
+  "hg": 0,
+  "ag": 0,
+  "away": "Bethesda SC",
+  "venue": "Southpointe Fieldhouse - Indoor Complex",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-01",
+  "time": "11:30 AM EST",
+  "home": "Real Futbol Academy",
+  "hg": 4,
+  "ag": 1,
+  "away": "Northern Virginia Alliance",
+  "venue": "Bob Bende Soccer Complex - Capelli Turf (Near Road)",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-01",
+  "time": "12:00 PM EST",
+  "home": "Alexandria SA",
+  "hg": 2,
+  "ag": 3,
+  "away": "Baltimore Armour",
+  "venue": "Witter Field - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-01",
+  "time": "1:00 PM EST",
+  "home": "Achilles FC",
+  "hg": 2,
+  "ag": 4,
+  "away": "Sporting Athletic Club",
+  "venue": "Maryland SoccerPlex - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-01",
+  "time": "2:00 PM EST",
+  "home": "Players Development Academy",
+  "hg": 0,
+  "ag": 4,
+  "away": "FC DELCO",
+  "venue": "PDA Soccer Complex - Field 3 Turf",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-07",
+  "time": "10:00 AM EST",
+  "home": "Keystone FC",
+  "hg": 2,
+  "ag": 4,
+  "away": "Northern Virginia Alliance",
+  "venue": "Bermudian Springs High School - Softball/Field Hockey",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-07",
+  "time": "2:00 PM EST",
+  "home": "Players Development Academy",
+  "hg": 1,
+  "ag": 3,
+  "away": "Cedar Stars Academy Monmouth",
+  "venue": "PDA Soccer Complex - Field 3 Turf",
   "type": "League"
  },
  {
@@ -3125,6 +3444,72 @@
  },
  {
   "conf": "Northeast",
+  "date": "2026-10-31",
+  "time": "7:00 PM EDT",
+  "home": "Blau Weiss Gottschee",
+  "hg": 9,
+  "ag": 2,
+  "away": "Downtown United Soccer Club",
+  "venue": "Aviator - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-01",
+  "time": "11:00 AM EST",
+  "home": "New York SC",
+  "hg": 2,
+  "ag": 4,
+  "away": "Beachside of Connecticut",
+  "venue": "Hackley School - North Turf",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-01",
+  "time": "12:00 PM EST",
+  "home": "Connecticut United FC",
+  "hg": 3,
+  "ag": 3,
+  "away": "Cedar Stars Academy Bergen",
+  "venue": "Immaculate High School - Stadium Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-01",
+  "time": "4:30 PM EST",
+  "home": "Seacoast United",
+  "hg": 1,
+  "ag": 1,
+  "away": "FC Greater Boston Bolts",
+  "venue": "Seacoast United Epping Outdoor Complex - Field 4",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-07",
+  "time": "10:45 AM EST",
+  "home": "FC Greater Boston Bolts",
+  "hg": 3,
+  "ag": 2,
+  "away": "NEFC",
+  "venue": "Minuteman High School - Baseball Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-07",
+  "time": "2:30 PM EST",
+  "home": "Connecticut United FC",
+  "hg": 2,
+  "ag": 0,
+  "away": "Bayside FC",
+  "venue": "Rogers Park - John Perry Turf Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
   "date": "2027-06-08",
   "time": "10:15 AM EDT",
   "home": "The Island FC East",
@@ -3149,22 +3534,22 @@
   "conf": "Northwest",
   "date": "2026-09-05",
   "time": "5:00 PM PDT",
-  "home": "Modesto Ajax United",
-  "hg": 4,
+  "home": "Lamorinda Soccer Club",
+  "hg": 3,
   "ag": 0,
-  "away": "Woodside Soccer Club Crush",
-  "venue": "Mary Grogan Community Park - Field 2",
+  "away": "Sacramento United",
+  "venue": "Wilder Fields - Field 2 - Wilder 2",
   "type": "League"
  },
  {
   "conf": "Northwest",
   "date": "2026-09-05",
   "time": "5:00 PM PDT",
-  "home": "Lamorinda Soccer Club",
-  "hg": 3,
+  "home": "Modesto Ajax United",
+  "hg": 4,
   "ag": 0,
-  "away": "Sacramento United",
-  "venue": "Wilder Fields - Field 2 - Wilder 2",
+  "away": "Woodside Soccer Club Crush",
+  "venue": "Mary Grogan Community Park - Field 2",
   "type": "League"
  },
  {
@@ -3193,11 +3578,11 @@
   "conf": "Northwest",
   "date": "2026-09-12",
   "time": "5:00 PM PDT",
-  "home": "Sacramento United",
+  "home": "ALBION SC Merced",
   "hg": 1,
-  "ag": 3,
-  "away": "Ballistic United",
-  "venue": "Granite Regional Park - Turf",
+  "ag": 2,
+  "away": "Lamorinda Soccer Club",
+  "venue": "El Capitan High School",
   "type": "League"
  },
  {
@@ -3215,11 +3600,11 @@
   "conf": "Northwest",
   "date": "2026-09-12",
   "time": "5:00 PM PDT",
-  "home": "ALBION SC Merced",
+  "home": "Sacramento United",
   "hg": 1,
-  "ag": 2,
-  "away": "Lamorinda Soccer Club",
-  "venue": "El Capitan High School",
+  "ag": 3,
+  "away": "Ballistic United",
+  "venue": "Granite Regional Park - Turf",
   "type": "League"
  },
  {
@@ -3231,6 +3616,39 @@
   "ag": 1,
   "away": "Modesto Ajax United",
   "venue": "Ohlone College - Soccer Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-09-19",
+  "time": "11:00 AM PDT",
+  "home": "Ballistic United",
+  "hg": 2,
+  "ag": 2,
+  "away": "De Anza Force",
+  "venue": "Stanford Medical Sports Complex - East",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-09-19",
+  "time": "11:00 AM PDT",
+  "home": "Modesto Ajax United",
+  "hg": 0,
+  "ag": 0,
+  "away": "Atletico Santa Rosa",
+  "venue": "Mary Grogan Community Park - Field 3",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-09-19",
+  "time": "12:00 PM PDT",
+  "home": "Silicon Valley Soccer Academy",
+  "hg": 1,
+  "ag": 3,
+  "away": "Sacramento Republic FC",
+  "venue": "Mayfield Soccer Complex - Mayfield South",
   "type": "League"
  },
  {
@@ -3253,39 +3671,6 @@
   "ag": 0,
   "away": "Woodside Soccer Club Crush",
   "venue": "Clayton Valley High School - Lower Field",
-  "type": "League"
- },
- {
-  "conf": "Northwest",
-  "date": "2026-09-19",
-  "time": "11:00 AM PDT",
-  "home": "Modesto Ajax United",
-  "hg": 0,
-  "ag": 0,
-  "away": "Atletico Santa Rosa",
-  "venue": "Mary Grogan Community Park - Field 3",
-  "type": "League"
- },
- {
-  "conf": "Northwest",
-  "date": "2026-09-19",
-  "time": "11:00 AM PDT",
-  "home": "Ballistic United",
-  "hg": 2,
-  "ag": 2,
-  "away": "De Anza Force",
-  "venue": "Stanford Medical Sports Complex - East",
-  "type": "League"
- },
- {
-  "conf": "Northwest",
-  "date": "2026-09-19",
-  "time": "12:00 PM PDT",
-  "home": "Silicon Valley Soccer Academy",
-  "hg": 1,
-  "ag": 3,
-  "away": "Sacramento Republic FC",
-  "venue": "Mayfield Soccer Complex - Mayfield South",
   "type": "League"
  },
  {
@@ -3336,17 +3721,6 @@
   "conf": "Northwest",
   "date": "2026-09-26",
   "time": "5:00 PM PDT",
-  "home": "Lamorinda Soccer Club",
-  "hg": 0,
-  "ag": 2,
-  "away": "De Anza Force",
-  "venue": "Wilder Fields - Field 2 - Wilder 2",
-  "type": "League"
- },
- {
-  "conf": "Northwest",
-  "date": "2026-09-26",
-  "time": "5:00 PM PDT",
   "home": "ALBION SC Merced",
   "hg": 3,
   "ag": 3,
@@ -3357,12 +3731,12 @@
  {
   "conf": "Northwest",
   "date": "2026-09-26",
-  "time": "5:30 PM PDT",
-  "home": "The Town FC Academy",
-  "hg": 1,
-  "ag": 1,
-  "away": "Sacramento United",
-  "venue": "Horse Creek Soccer Complex - Field C",
+  "time": "5:00 PM PDT",
+  "home": "Lamorinda Soccer Club",
+  "hg": 0,
+  "ag": 2,
+  "away": "De Anza Force",
+  "venue": "Wilder Fields - Field 2 - Wilder 2",
   "type": "League"
  },
  {
@@ -3379,34 +3753,23 @@
  {
   "conf": "Northwest",
   "date": "2026-09-26",
+  "time": "5:30 PM PDT",
+  "home": "The Town FC Academy",
+  "hg": 1,
+  "ag": 1,
+  "away": "Sacramento United",
+  "venue": "Horse Creek Soccer Complex - Field C",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-09-26",
   "time": "7:00 PM PDT",
   "home": "Atletico Santa Rosa",
   "hg": 4,
   "ag": 0,
   "away": "FC Bay Area Surf",
   "venue": "El Molino High School",
-  "type": "League"
- },
- {
-  "conf": "Northwest",
-  "date": "2026-10-03",
-  "time": "1:00 PM PDT",
-  "home": "The Town FC Academy",
-  "hg": 3,
-  "ag": 2,
-  "away": "San Francisco Glens SC",
-  "venue": "Clayton Valley High School - Lower Field",
-  "type": "League"
- },
- {
-  "conf": "Northwest",
-  "date": "2026-10-03",
-  "time": "11:00 AM PDT",
-  "home": "Woodside Soccer Club Crush",
-  "hg": 0,
-  "ag": 6,
-  "away": "Sacramento United",
-  "venue": "Sequoia High School - Terremere Field",
   "type": "League"
  },
  {
@@ -3423,12 +3786,34 @@
  {
   "conf": "Northwest",
   "date": "2026-10-03",
+  "time": "11:00 AM PDT",
+  "home": "Woodside Soccer Club Crush",
+  "hg": 0,
+  "ag": 6,
+  "away": "Sacramento United",
+  "venue": "Sequoia High School - Terremere Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-10-03",
   "time": "12:00 PM PDT",
   "home": "Silicon Valley Soccer Academy",
   "hg": 2,
   "ag": 4,
   "away": "San Jose Earthquakes",
   "venue": "Mayfield Soccer Complex - Mayfield North",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-10-03",
+  "time": "1:00 PM PDT",
+  "home": "The Town FC Academy",
+  "hg": 3,
+  "ag": 2,
+  "away": "San Francisco Glens SC",
+  "venue": "Clayton Valley High School - Lower Field",
   "type": "League"
  },
  {
@@ -3468,22 +3853,22 @@
   "conf": "Northwest",
   "date": "2026-10-17",
   "time": "5:00 PM PDT",
-  "home": "Modesto Ajax United",
-  "hg": 2,
-  "ag": 0,
-  "away": "De Anza Force",
-  "venue": "Mary Grogan Community Park - Field 3",
+  "home": "Lamorinda Soccer Club",
+  "hg": 1,
+  "ag": 3,
+  "away": "San Francisco Glens SC",
+  "venue": "Wilder Fields - Field 2 - Wilder 2",
   "type": "League"
  },
  {
   "conf": "Northwest",
   "date": "2026-10-17",
   "time": "5:00 PM PDT",
-  "home": "Lamorinda Soccer Club",
-  "hg": 1,
-  "ag": 3,
-  "away": "San Francisco Glens SC",
-  "venue": "Wilder Fields - Field 2 - Wilder 2",
+  "home": "Modesto Ajax United",
+  "hg": 2,
+  "ag": 0,
+  "away": "De Anza Force",
+  "venue": "Mary Grogan Community Park - Field 3",
   "type": "League"
  },
  {
@@ -3575,6 +3960,72 @@
   "type": "League"
  },
  {
+  "conf": "Northwest",
+  "date": "2026-10-31",
+  "time": "11:00 AM PDT",
+  "home": "Ballistic United",
+  "hg": 4,
+  "ag": 2,
+  "away": "Sacramento United",
+  "venue": "Stanford Medical Sports Complex - East",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-10-31",
+  "time": "11:00 AM PDT",
+  "home": "Modesto Ajax United",
+  "hg": 0,
+  "ag": 3,
+  "away": "Sacramento Republic FC",
+  "venue": "Mary Grogan Community Park - Field 3",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-10-31",
+  "time": "12:00 PM PDT",
+  "home": "Silicon Valley Soccer Academy",
+  "hg": 5,
+  "ag": 0,
+  "away": "Lamorinda Soccer Club",
+  "venue": "Mayfield Soccer Complex - Mayfield South",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-10-31",
+  "time": "1:00 PM PDT",
+  "home": "De Anza Force",
+  "hg": 2,
+  "ag": 3,
+  "away": "FC Bay Area Surf",
+  "venue": "De Anza College - Soccer Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-10-31",
+  "time": "1:45 PM PDT",
+  "home": "San Francisco Glens SC",
+  "hg": 3,
+  "ag": 3,
+  "away": "Atletico Santa Rosa",
+  "venue": "Beach Chalet Soccer Field - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-10-31",
+  "time": "3:30 PM PDT",
+  "home": "San Jose Earthquakes",
+  "hg": 3,
+  "ag": 0,
+  "away": "Woodside Soccer Club Crush",
+  "venue": "Ohlone College - Soccer Field",
+  "type": "League"
+ },
+ {
   "conf": "Southeast",
   "date": "2026-09-05",
   "time": "10:00 AM CDT",
@@ -3594,17 +4045,6 @@
   "ag": 2,
   "away": "Chattanooga FC",
   "venue": "Soccer.com - #2",
-  "type": "League"
- },
- {
-  "conf": "Southeast",
-  "date": "2026-09-06",
-  "time": "1:00 PM CDT",
-  "home": "Nashville United Soccer Academy (NUSA Next)",
-  "hg": 1,
-  "ag": 2,
-  "away": "Queen City Mutiny FC",
-  "venue": "Bethesda Sports Park - Field 1",
   "type": "League"
  },
  {
@@ -3631,13 +4071,13 @@
  },
  {
   "conf": "Southeast",
-  "date": "2026-09-12",
-  "time": "1:00 PM EDT",
-  "home": "Charlotte Independence Soccer Club",
-  "hg": 3,
-  "ag": 0,
-  "away": "KSA",
-  "venue": "Manchester Meadows - Field 4",
+  "date": "2026-09-06",
+  "time": "1:00 PM CDT",
+  "home": "Nashville United Soccer Academy (NUSA Next)",
+  "hg": 1,
+  "ag": 2,
+  "away": "Queen City Mutiny FC",
+  "venue": "Bethesda Sports Park - Field 1",
   "type": "League"
  },
  {
@@ -3654,34 +4094,23 @@
  {
   "conf": "Southeast",
   "date": "2026-09-12",
+  "time": "1:00 PM EDT",
+  "home": "Charlotte Independence Soccer Club",
+  "hg": 3,
+  "ag": 0,
+  "away": "KSA",
+  "venue": "Manchester Meadows - Field 4",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-09-12",
   "time": "2:00 PM EDT",
   "home": "Chattanooga FC",
   "hg": 5,
   "ag": 0,
   "away": "Hoover-Vestavia Soccer",
   "venue": "UTC Sports Complex - Lower Field",
-  "type": "League"
- },
- {
-  "conf": "Southeast",
-  "date": "2026-09-13",
-  "time": "1:00 PM EDT",
-  "home": "Carolina Core FC",
-  "hg": 4,
-  "ag": 1,
-  "away": "Queen City Mutiny FC",
-  "venue": "Phillips Park Soccer Complex Field #1",
-  "type": "League"
- },
- {
-  "conf": "Southeast",
-  "date": "2026-09-13",
-  "time": "11:00 AM EDT",
-  "home": "Lanier Soccer Association",
-  "hg": 1,
-  "ag": 3,
-  "away": "Wake FC",
-  "venue": "East Hall High School - Stadium",
   "type": "League"
  },
  {
@@ -3698,12 +4127,34 @@
  {
   "conf": "Southeast",
   "date": "2026-09-13",
+  "time": "11:00 AM EDT",
+  "home": "Lanier Soccer Association",
+  "hg": 1,
+  "ag": 3,
+  "away": "Wake FC",
+  "venue": "East Hall High School - Stadium",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-09-13",
   "time": "12:00 PM CDT",
   "home": "Hoover-Vestavia Soccer",
   "hg": 0,
   "ag": 1,
   "away": "Southern Soccer Academy",
   "venue": "Hoover East Sports Complex - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-09-13",
+  "time": "1:00 PM EDT",
+  "home": "Carolina Core FC",
+  "hg": 4,
+  "ag": 1,
+  "away": "Queen City Mutiny FC",
+  "venue": "Phillips Park Soccer Complex Field #1",
   "type": "League"
  },
  {
@@ -3721,22 +4172,22 @@
   "conf": "Southeast",
   "date": "2026-09-19",
   "time": "11:00 AM EDT",
-  "home": "Charlotte Independence Soccer Club",
-  "hg": 0,
-  "ag": 4,
-  "away": "Atlanta United",
-  "venue": "Bradford Park - Field 2",
+  "home": "AFC Lightning",
+  "hg": 2,
+  "ag": 2,
+  "away": "Carolina Core FC",
+  "venue": "McCurry Park South - Field 24",
   "type": "League"
  },
  {
   "conf": "Southeast",
   "date": "2026-09-19",
   "time": "11:00 AM EDT",
-  "home": "AFC Lightning",
-  "hg": 2,
-  "ag": 2,
-  "away": "Carolina Core FC",
-  "venue": "McCurry Park South - Field 24",
+  "home": "Charlotte Independence Soccer Club",
+  "hg": 0,
+  "ag": 4,
+  "away": "Atlanta United",
+  "venue": "Bradford Park - Field 2",
   "type": "League"
  },
  {
@@ -3775,17 +4226,6 @@
  {
   "conf": "Southeast",
   "date": "2026-09-20",
-  "time": "1:30 PM EDT",
-  "home": "Queen City Mutiny FC",
-  "hg": 1,
-  "ag": 2,
-  "away": "Charlotte Independence Soccer Club",
-  "venue": "Elon Park - Field 1",
-  "type": "League"
- },
- {
-  "conf": "Southeast",
-  "date": "2026-09-20",
   "time": "10:00 AM EDT",
   "home": "KSA",
   "hg": 0,
@@ -3818,13 +4258,13 @@
  },
  {
   "conf": "Southeast",
-  "date": "2026-09-26",
-  "time": "1:00 PM EDT",
-  "home": "Wake FC",
-  "hg": 5,
-  "ag": 0,
-  "away": "Southern Soccer Academy",
-  "venue": "Ting Park - Ting Park 1",
+  "date": "2026-09-20",
+  "time": "1:30 PM EDT",
+  "home": "Queen City Mutiny FC",
+  "hg": 1,
+  "ag": 2,
+  "away": "Charlotte Independence Soccer Club",
+  "venue": "Elon Park - Field 1",
   "type": "League"
  },
  {
@@ -3836,6 +4276,17 @@
   "ag": 0,
   "away": "Hoover-Vestavia Soccer",
   "venue": "Phillips Park Soccer Complex Field #1",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-09-26",
+  "time": "1:00 PM EDT",
+  "home": "Wake FC",
+  "hg": 5,
+  "ag": 0,
+  "away": "Southern Soccer Academy",
+  "venue": "Ting Park - Ting Park 1",
   "type": "League"
  },
  {
@@ -3858,17 +4309,6 @@
   "ag": 4,
   "away": "Charlotte Independence Soccer Club",
   "venue": "Allen Creek Soccer Complex - Field 4",
-  "type": "League"
- },
- {
-  "conf": "Southeast",
-  "date": "2026-09-27",
-  "time": "1:00 PM CDT",
-  "home": "Nashville United Soccer Academy (NUSA Next)",
-  "hg": 0,
-  "ag": 1,
-  "away": "KSA",
-  "venue": "Oakland High School - Oakland High School Turf",
   "type": "League"
  },
  {
@@ -3907,6 +4347,17 @@
  {
   "conf": "Southeast",
   "date": "2026-09-27",
+  "time": "1:00 PM CDT",
+  "home": "Nashville United Soccer Academy (NUSA Next)",
+  "hg": 0,
+  "ag": 1,
+  "away": "KSA",
+  "venue": "Oakland High School - Oakland High School Turf",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-09-27",
   "time": "3:00 PM EDT",
   "home": "Queen City Mutiny FC",
   "hg": 1,
@@ -3929,12 +4380,12 @@
  {
   "conf": "Southeast",
   "date": "2026-10-04",
-  "time": "1:00 PM EDT",
-  "home": "Southern Soccer Academy",
-  "hg": 0,
+  "time": "11:00 AM EDT",
+  "home": "Atlanta United",
+  "hg": 4,
   "ag": 1,
-  "away": "KSA",
-  "venue": "Mud Creek Soccer Complex - 2",
+  "away": "AFC Lightning",
+  "venue": "Atlanta United Training Ground - 5",
   "type": "League"
  },
  {
@@ -3951,12 +4402,12 @@
  {
   "conf": "Southeast",
   "date": "2026-10-04",
-  "time": "11:00 AM EDT",
-  "home": "Atlanta United",
-  "hg": 4,
+  "time": "1:00 PM EDT",
+  "home": "Southern Soccer Academy",
+  "hg": 0,
   "ag": 1,
-  "away": "AFC Lightning",
-  "venue": "Atlanta United Training Ground - 5",
+  "away": "KSA",
+  "venue": "Mud Creek Soccer Complex - 2",
   "type": "League"
  },
  {
@@ -4006,17 +4457,6 @@
  {
   "conf": "Southeast",
   "date": "2026-10-18",
-  "time": "1:00 PM EDT",
-  "home": "Chattanooga FC",
-  "hg": 0,
-  "ag": 1,
-  "away": "Carolina Core FC",
-  "venue": "UTC Sports Complex - Lower Field",
-  "type": "League"
- },
- {
-  "conf": "Southeast",
-  "date": "2026-10-18",
   "time": "11:00 AM CDT",
   "home": "Huntsville City FC",
   "hg": 0,
@@ -4034,6 +4474,17 @@
   "ag": 10,
   "away": "Atlanta United",
   "venue": "Richard Siegel Soccer Complex - 6",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-10-18",
+  "time": "1:00 PM EDT",
+  "home": "Chattanooga FC",
+  "hg": 0,
+  "ag": 1,
+  "away": "Carolina Core FC",
+  "venue": "UTC Sports Complex - Lower Field",
   "type": "League"
  },
  {
@@ -4072,28 +4523,6 @@
  {
   "conf": "Southeast",
   "date": "2026-10-24",
-  "time": "1:00 PM EDT",
-  "home": "Wake FC",
-  "hg": 2,
-  "ag": 1,
-  "away": "Huntsville City FC",
-  "venue": "Ting Park - Ting Park 2",
-  "type": "League"
- },
- {
-  "conf": "Southeast",
-  "date": "2026-10-24",
-  "time": "1:00 PM EDT",
-  "home": "Charlotte Independence Soccer Club",
-  "hg": 3,
-  "ag": 1,
-  "away": "Chattanooga FC",
-  "venue": "Richard Barry Memorial Park - Field 1",
-  "type": "League"
- },
- {
-  "conf": "Southeast",
-  "date": "2026-10-24",
   "time": "11:00 AM EDT",
   "home": "AFC Lightning",
   "hg": 1,
@@ -4111,6 +4540,28 @@
   "ag": 1,
   "away": "Southern Soccer Academy",
   "venue": "Atlanta United Training Ground - 5",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-10-24",
+  "time": "1:00 PM EDT",
+  "home": "Charlotte Independence Soccer Club",
+  "hg": 3,
+  "ag": 1,
+  "away": "Chattanooga FC",
+  "venue": "Richard Barry Memorial Park - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-10-24",
+  "time": "1:00 PM EDT",
+  "home": "Wake FC",
+  "hg": 2,
+  "ag": 1,
+  "away": "Huntsville City FC",
+  "venue": "Ting Park - Ting Park 2",
   "type": "League"
  },
  {
@@ -4139,22 +4590,22 @@
   "conf": "Southeast",
   "date": "2026-10-25",
   "time": "11:00 AM EDT",
-  "home": "Charlotte Independence Soccer Club",
-  "hg": 1,
+  "home": "Atlanta United",
+  "hg": 7,
   "ag": 0,
-  "away": "Huntsville City FC",
-  "venue": "Richard Barry Memorial Park - Field 1",
+  "away": "Lanier Soccer Association",
+  "venue": "Atlanta United Training Ground - 5",
   "type": "League"
  },
  {
   "conf": "Southeast",
   "date": "2026-10-25",
   "time": "11:00 AM EDT",
-  "home": "Atlanta United",
-  "hg": 7,
+  "home": "Charlotte Independence Soccer Club",
+  "hg": 1,
   "ag": 0,
-  "away": "Lanier Soccer Association",
-  "venue": "Atlanta United Training Ground - 5",
+  "away": "Huntsville City FC",
+  "venue": "Richard Barry Memorial Park - Field 1",
   "type": "League"
  },
  {
@@ -4177,6 +4628,105 @@
   "ag": 3,
   "away": "Chattanooga FC",
   "venue": "Ting Park - Ting Park 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-10-31",
+  "time": "11:00 AM EDT",
+  "home": "Inter Atlanta FC",
+  "hg": 2,
+  "ag": 2,
+  "away": "Carolina Core FC",
+  "venue": "Arizona Avenue Soccer Fields AZ 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-10-31",
+  "time": "12:00 PM CDT",
+  "home": "Hoover-Vestavia Soccer",
+  "hg": 1,
+  "ag": 6,
+  "away": "Charlotte Independence Soccer Club",
+  "venue": "Hoover East Sports Complex - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-10-31",
+  "time": "9:00 AM EDT",
+  "home": "Southern Soccer Academy",
+  "hg": 1,
+  "ag": 1,
+  "away": "Triangle United Soccer Association",
+  "venue": "Franklin Gateway sports complex - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-01",
+  "time": "11:00 AM EST",
+  "home": "Inter Atlanta FC",
+  "hg": 2,
+  "ag": 2,
+  "away": "Charlotte Independence Soccer Club",
+  "venue": "Arizona Avenue Soccer Fields AZ 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-01",
+  "time": "12:00 PM CST",
+  "home": "Nashville United Soccer Academy (NUSA Next)",
+  "hg": 1,
+  "ag": 1,
+  "away": "Chattanooga FC",
+  "venue": "Richard Siegel Soccer Complex - 6",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-01",
+  "time": "2:00 PM EST",
+  "home": "KSA",
+  "hg": 2,
+  "ag": 4,
+  "away": "Triangle United Soccer Association",
+  "venue": "Rock Springs Park - RSP 3",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-01",
+  "time": "9:00 AM EST",
+  "home": "Lanier Soccer Association",
+  "hg": 4,
+  "ag": 2,
+  "away": "AFC Lightning",
+  "venue": "Allen Creek Soccer Complex - Field 4",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-01",
+  "time": "9:00 AM EST",
+  "home": "Southern Soccer Academy",
+  "hg": 0,
+  "ag": 0,
+  "away": "Carolina Core FC",
+  "venue": "Franklin Gateway sports complex - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-07",
+  "time": "11:00 AM EST",
+  "home": "Atlanta United",
+  "hg": 5,
+  "ag": 3,
+  "away": "Queen City Mutiny FC",
+  "venue": "Atlanta United Training Ground - 5",
   "type": "League"
  },
  {
@@ -4205,11 +4755,11 @@
   "conf": "Southwest",
   "date": "2026-09-05",
   "time": "11:00 AM PDT",
-  "home": "San Diego FC",
-  "hg": 3,
-  "ag": 4,
-  "away": "RSL Arizona",
-  "venue": "Sharp Healthcare Performance Center - Field 2",
+  "home": "Chula Vista FC",
+  "hg": 6,
+  "ag": 2,
+  "away": "Las Vegas Sports Academy",
+  "venue": "Victory Christian Academy - Field 1",
   "type": "League"
  },
  {
@@ -4227,22 +4777,11 @@
   "conf": "Southwest",
   "date": "2026-09-05",
   "time": "11:00 AM PDT",
-  "home": "Chula Vista FC",
-  "hg": 6,
-  "ag": 2,
-  "away": "Las Vegas Sports Academy",
-  "venue": "Victory Christian Academy - Field 1",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-09-05",
-  "time": "9:00 AM PDT",
-  "home": "Santa Barbara Soccer Club",
-  "hg": 0,
-  "ag": 2,
-  "away": "Los Angeles Sports Club",
-  "venue": "UCSB Rob Gym Fields - Field 2",
+  "home": "San Diego FC",
+  "hg": 3,
+  "ag": 4,
+  "away": "RSL Arizona",
+  "venue": "Sharp Healthcare Performance Center - Field 2",
   "type": "League"
  },
  {
@@ -4258,13 +4797,13 @@
  },
  {
   "conf": "Southwest",
-  "date": "2026-09-06",
-  "time": "11:00 AM PDT",
-  "home": "Total Futbol Academy",
-  "hg": 1,
-  "ag": 0,
-  "away": "SoCal Reds FC",
-  "venue": "Silverlakes Field in Norco - Silverlakes Sports Complex Field 2",
+  "date": "2026-09-05",
+  "time": "9:00 AM PDT",
+  "home": "Santa Barbara Soccer Club",
+  "hg": 0,
+  "ag": 2,
+  "away": "Los Angeles Sports Club",
+  "venue": "UCSB Rob Gym Fields - Field 2",
   "type": "League"
  },
  {
@@ -4276,6 +4815,17 @@
   "ag": 1,
   "away": "Albion SC Las Vegas",
   "venue": "Aviara Community Park - Aviara Community Park",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-09-06",
+  "time": "11:00 AM PDT",
+  "home": "Total Futbol Academy",
+  "hg": 1,
+  "ag": 0,
+  "away": "SoCal Reds FC",
+  "venue": "Silverlakes Field in Norco - Silverlakes Sports Complex Field 2",
   "type": "League"
  },
  {
@@ -4293,22 +4843,22 @@
   "conf": "Southwest",
   "date": "2026-09-06",
   "time": "9:00 AM PDT",
-  "home": "LA Galaxy",
+  "home": "ALBION SC San Diego",
   "hg": 1,
-  "ag": 1,
-  "away": "Strikers FC",
-  "venue": "Dignity Health Sports Park - Field 5",
+  "ag": 3,
+  "away": "Las Vegas Sports Academy",
+  "venue": "Muir Language Academy",
   "type": "League"
  },
  {
   "conf": "Southwest",
   "date": "2026-09-06",
   "time": "9:00 AM PDT",
-  "home": "ALBION SC San Diego",
+  "home": "LA Galaxy",
   "hg": 1,
-  "ag": 3,
-  "away": "Las Vegas Sports Academy",
-  "venue": "Muir Language Academy",
+  "ag": 1,
+  "away": "Strikers FC",
+  "venue": "Dignity Health Sports Park - Field 5",
   "type": "League"
  },
  {
@@ -4348,17 +4898,6 @@
   "conf": "Southwest",
   "date": "2026-09-12",
   "time": "9:00 AM PDT",
-  "home": "Las Vegas Sports Academy",
-  "hg": 4,
-  "ag": 2,
-  "away": "Phoenix Rising FC",
-  "venue": "Viper Lacrosse Fields Family Sports Complex - Field 1",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-09-12",
-  "time": "9:00 AM PDT",
   "home": "LA Galaxy",
   "hg": 1,
   "ag": 1,
@@ -4368,13 +4907,35 @@
  },
  {
   "conf": "Southwest",
+  "date": "2026-09-12",
+  "time": "9:00 AM PDT",
+  "home": "Las Vegas Sports Academy",
+  "hg": 4,
+  "ag": 2,
+  "away": "Phoenix Rising FC",
+  "venue": "Viper Lacrosse Fields Family Sports Complex - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
   "date": "2026-09-13",
   "time": "11:00 AM PDT",
-  "home": "Strikers FC",
-  "hg": 7,
+  "home": "Albion SC Las Vegas",
+  "hg": 2,
   "ag": 0,
-  "away": "Los Angeles Bulls Soccer Club",
-  "venue": "Great Park - Field 11",
+  "away": "Phoenix Rising FC",
+  "venue": "Heritage Park - Field 12",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-09-13",
+  "time": "11:00 AM PDT",
+  "home": "City SC - San Diego",
+  "hg": 3,
+  "ag": 3,
+  "away": "LA Surf Soccer Club",
+  "venue": "Aviara Community Park - Aviara Community Park",
   "type": "League"
  },
  {
@@ -4403,22 +4964,11 @@
   "conf": "Southwest",
   "date": "2026-09-13",
   "time": "11:00 AM PDT",
-  "home": "City SC - San Diego",
-  "hg": 3,
-  "ag": 3,
-  "away": "LA Surf Soccer Club",
-  "venue": "Aviara Community Park - Aviara Community Park",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-09-13",
-  "time": "11:00 AM PDT",
-  "home": "Albion SC Las Vegas",
-  "hg": 2,
+  "home": "Strikers FC",
+  "hg": 7,
   "ag": 0,
-  "away": "Phoenix Rising FC",
-  "venue": "Heritage Park - Field 12",
+  "away": "Los Angeles Bulls Soccer Club",
+  "venue": "Great Park - Field 11",
   "type": "League"
  },
  {
@@ -4430,28 +4980,6 @@
   "ag": 0,
   "away": "Santa Barbara Soccer Club",
   "venue": "Dignity Health Sports Park - Field 5",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-09-19",
-  "time": "1:00 PM PDT",
-  "home": "Albion SC Los Angeles",
-  "hg": 1,
-  "ag": 3,
-  "away": "Total Futbol Academy",
-  "venue": "Long Beach City College - FIELD 1",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-09-19",
-  "time": "1:00 PM PDT",
-  "home": "Albion SC Las Vegas",
-  "hg": 3,
-  "ag": 3,
-  "away": "SC Del Sol",
-  "venue": "Aventura Park - South Field",
   "type": "League"
  },
  {
@@ -4480,6 +5008,17 @@
   "conf": "Southwest",
   "date": "2026-09-19",
   "time": "11:00 AM PDT",
+  "home": "FC Golden State Force",
+  "hg": 4,
+  "ag": 0,
+  "away": "Phoenix Rising FC",
+  "venue": "Silverlakes Sports Complex - Field 4",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-09-19",
+  "time": "11:00 AM PDT",
   "home": "RSL Arizona",
   "hg": 2,
   "ag": 1,
@@ -4501,12 +5040,45 @@
  {
   "conf": "Southwest",
   "date": "2026-09-19",
+  "time": "1:00 PM PDT",
+  "home": "Albion SC Las Vegas",
+  "hg": 3,
+  "ag": 3,
+  "away": "SC Del Sol",
+  "venue": "Aventura Park - South Field",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-09-19",
+  "time": "1:00 PM PDT",
+  "home": "Albion SC Los Angeles",
+  "hg": 1,
+  "ag": 3,
+  "away": "Total Futbol Academy",
+  "venue": "Long Beach City College - FIELD 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-09-20",
   "time": "11:00 AM PDT",
   "home": "FC Golden State Force",
-  "hg": 4,
+  "hg": 0,
   "ag": 0,
+  "away": "ALBION SC San Diego",
+  "venue": "Silverlakes Field in Norco - Silverlakes Sports Complex Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-09-20",
+  "time": "11:00 AM PDT",
+  "home": "LA Surf Soccer Club",
+  "hg": 6,
+  "ag": 1,
   "away": "Phoenix Rising FC",
-  "venue": "Silverlakes Sports Complex - Field 4",
+  "venue": "Silverlakes Sports Complex - Field 19",
   "type": "League"
  },
  {
@@ -4534,28 +5106,6 @@
  {
   "conf": "Southwest",
   "date": "2026-09-20",
-  "time": "11:00 AM PDT",
-  "home": "LA Surf Soccer Club",
-  "hg": 6,
-  "ag": 1,
-  "away": "Phoenix Rising FC",
-  "venue": "Silverlakes Sports Complex - Field 19",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-09-20",
-  "time": "11:00 AM PDT",
-  "home": "FC Golden State Force",
-  "hg": 0,
-  "ag": 0,
-  "away": "ALBION SC San Diego",
-  "venue": "Silverlakes Field in Norco - Silverlakes Sports Complex Field 2",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-09-20",
   "time": "8:30 AM PDT",
   "home": "City SC Southwest",
   "hg": 0,
@@ -4568,22 +5118,22 @@
   "conf": "Southwest",
   "date": "2026-09-20",
   "time": "9:00 AM PDT",
-  "home": "Las Vegas Sports Academy",
+  "home": "Chula Vista FC",
   "hg": 4,
-  "ag": 2,
-  "away": "SC Del Sol",
-  "venue": "Viper Lacrosse Fields Family Sports Complex - Field 1",
+  "ag": 3,
+  "away": "Santa Barbara Soccer Club",
+  "venue": "Hoover High School - Stadium",
   "type": "League"
  },
  {
   "conf": "Southwest",
   "date": "2026-09-20",
   "time": "9:00 AM PDT",
-  "home": "Chula Vista FC",
+  "home": "Las Vegas Sports Academy",
   "hg": 4,
-  "ag": 3,
-  "away": "Santa Barbara Soccer Club",
-  "venue": "Hoover High School - Stadium",
+  "ag": 2,
+  "away": "SC Del Sol",
+  "venue": "Viper Lacrosse Fields Family Sports Complex - Field 1",
   "type": "League"
  },
  {
@@ -4601,22 +5151,22 @@
   "conf": "Southwest",
   "date": "2026-09-26",
   "time": "11:00 AM PDT",
-  "home": "RSL Arizona",
-  "hg": 4,
+  "home": "Albion SC Las Vegas",
+  "hg": 1,
   "ag": 0,
-  "away": "Los Angeles Sports Club",
-  "venue": "Scottsdale Sports Complex - Field 8",
+  "away": "City SC - San Diego",
+  "venue": "Aventura Park - Middle Field",
   "type": "League"
  },
  {
   "conf": "Southwest",
   "date": "2026-09-26",
   "time": "11:00 AM PDT",
-  "home": "Strikers FC",
-  "hg": 10,
+  "home": "RSL Arizona",
+  "hg": 4,
   "ag": 0,
-  "away": "RSL Arizona Mesa",
-  "venue": "Great Park - Field 11",
+  "away": "Los Angeles Sports Club",
+  "venue": "Scottsdale Sports Complex - Field 8",
   "type": "League"
  },
  {
@@ -4634,11 +5184,11 @@
   "conf": "Southwest",
   "date": "2026-09-26",
   "time": "11:00 AM PDT",
-  "home": "Albion SC Las Vegas",
-  "hg": 1,
+  "home": "Strikers FC",
+  "hg": 10,
   "ag": 0,
-  "away": "City SC - San Diego",
-  "venue": "Aventura Park - Middle Field",
+  "away": "RSL Arizona Mesa",
+  "venue": "Great Park - Field 11",
   "type": "League"
  },
  {
@@ -4666,12 +5216,12 @@
  {
   "conf": "Southwest",
   "date": "2026-09-27",
-  "time": "1:00 PM PDT",
-  "home": "Las Vegas Sports Academy",
-  "hg": 0,
-  "ag": 6,
-  "away": "City SC - San Diego",
-  "venue": "Viper Lacrosse Fields Family Sports Complex - Field 1",
+  "time": "11:00 AM PDT",
+  "home": "Albion SC Las Vegas",
+  "hg": 3,
+  "ag": 1,
+  "away": "Albion SC Los Angeles",
+  "venue": "Aventura Park - South Field",
   "type": "League"
  },
  {
@@ -4689,17 +5239,6 @@
   "conf": "Southwest",
   "date": "2026-09-27",
   "time": "11:00 AM PDT",
-  "home": "Total Futbol Academy",
-  "hg": 0,
-  "ag": 1,
-  "away": "FC Golden State Force",
-  "venue": "Silverlakes Field in Norco - Silverlakes Sports Complex Field 2",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-09-27",
-  "time": "11:00 AM PDT",
   "home": "SoCal Reds FC",
   "hg": 1,
   "ag": 1,
@@ -4711,11 +5250,22 @@
   "conf": "Southwest",
   "date": "2026-09-27",
   "time": "11:00 AM PDT",
-  "home": "Albion SC Las Vegas",
-  "hg": 3,
+  "home": "Total Futbol Academy",
+  "hg": 0,
   "ag": 1,
-  "away": "Albion SC Los Angeles",
-  "venue": "Aventura Park - South Field",
+  "away": "FC Golden State Force",
+  "venue": "Silverlakes Field in Norco - Silverlakes Sports Complex Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-09-27",
+  "time": "1:00 PM PDT",
+  "home": "Las Vegas Sports Academy",
+  "hg": 0,
+  "ag": 6,
+  "away": "City SC - San Diego",
+  "venue": "Viper Lacrosse Fields Family Sports Complex - Field 1",
   "type": "League"
  },
  {
@@ -4876,33 +5426,11 @@
   "conf": "Southwest",
   "date": "2026-10-17",
   "time": "11:00 AM PDT",
-  "home": "Strikers FC",
-  "hg": 1,
+  "home": "LA Surf Soccer Club",
+  "hg": 4,
   "ag": 1,
-  "away": "Albion SC Las Vegas",
-  "venue": "Great Park - Field 11",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-10-17",
-  "time": "11:00 AM PDT",
-  "home": "RSL Arizona Mesa",
-  "hg": 3,
-  "ag": 2,
-  "away": "Phoenix Rising FC",
-  "venue": "Scottsdale Prep - Field 1",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-10-17",
-  "time": "11:00 AM PDT",
-  "home": "Total Futbol Academy",
-  "hg": 1,
-  "ag": 0,
-  "away": "Chula Vista FC",
-  "venue": "Silverlakes Sports Complex - Field 23",
+  "away": "RSL Arizona",
+  "venue": "Arcadia High School - Stadium",
   "type": "League"
  },
  {
@@ -4931,22 +5459,33 @@
   "conf": "Southwest",
   "date": "2026-10-17",
   "time": "11:00 AM PDT",
-  "home": "LA Surf Soccer Club",
-  "hg": 4,
-  "ag": 1,
-  "away": "RSL Arizona",
-  "venue": "Arcadia High School - Stadium",
+  "home": "RSL Arizona Mesa",
+  "hg": 3,
+  "ag": 2,
+  "away": "Phoenix Rising FC",
+  "venue": "Scottsdale Prep - Field 1",
   "type": "League"
  },
  {
   "conf": "Southwest",
   "date": "2026-10-17",
-  "time": "9:00 AM PDT",
-  "home": "Santa Barbara Soccer Club",
-  "hg": 4,
-  "ag": 3,
-  "away": "City SC - San Diego",
-  "venue": "UCSB Rob Gym Fields - Field 2",
+  "time": "11:00 AM PDT",
+  "home": "Strikers FC",
+  "hg": 1,
+  "ag": 1,
+  "away": "Albion SC Las Vegas",
+  "venue": "Great Park - Field 11",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-17",
+  "time": "11:00 AM PDT",
+  "home": "Total Futbol Academy",
+  "hg": 1,
+  "ag": 0,
+  "away": "Chula Vista FC",
+  "venue": "Silverlakes Sports Complex - Field 23",
   "type": "League"
  },
  {
@@ -4962,6 +5501,17 @@
  },
  {
   "conf": "Southwest",
+  "date": "2026-10-17",
+  "time": "9:00 AM PDT",
+  "home": "Santa Barbara Soccer Club",
+  "hg": 4,
+  "ag": 3,
+  "away": "City SC - San Diego",
+  "venue": "UCSB Rob Gym Fields - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
   "date": "2026-10-18",
   "time": "10:30 AM PDT",
   "home": "City SC Southwest",
@@ -4969,6 +5519,28 @@
   "ag": 5,
   "away": "Las Vegas Sports Academy",
   "venue": "Patricia H. Birdsall Sports Park - Field 4",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-18",
+  "time": "11:00 AM PDT",
+  "home": "FC Golden State Force",
+  "hg": 5,
+  "ag": 0,
+  "away": "Los Angeles Bulls Soccer Club",
+  "venue": "Silverlakes Sports Complex - Field 18",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-18",
+  "time": "11:00 AM PDT",
+  "home": "Los Angeles Sports Club",
+  "hg": 2,
+  "ag": 0,
+  "away": "Albion SC Las Vegas",
+  "venue": "Silverlakes Sports Complex - Field 19",
   "type": "League"
  },
  {
@@ -5007,28 +5579,6 @@
  {
   "conf": "Southwest",
   "date": "2026-10-18",
-  "time": "11:00 AM PDT",
-  "home": "Los Angeles Sports Club",
-  "hg": 2,
-  "ag": 0,
-  "away": "Albion SC Las Vegas",
-  "venue": "Silverlakes Sports Complex - Field 19",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-10-18",
-  "time": "11:00 AM PDT",
-  "home": "FC Golden State Force",
-  "hg": 5,
-  "ag": 0,
-  "away": "Los Angeles Bulls Soccer Club",
-  "venue": "Silverlakes Sports Complex - Field 18",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-10-18",
   "time": "3:00 PM PDT",
   "home": "Albion SC Los Angeles",
   "hg": 5,
@@ -5046,28 +5596,6 @@
   "ag": 1,
   "away": "Chula Vista FC",
   "venue": "Occidental College Stadium",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-10-24",
-  "time": "1:00 PM PDT",
-  "home": "SoCal Reds FC",
-  "hg": 1,
-  "ag": 5,
-  "away": "LA Surf Soccer Club",
-  "venue": "Orange County Great Park - Field 13",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-10-24",
-  "time": "11:00 AM PDT",
-  "home": "Santa Barbara Soccer Club",
-  "hg": 6,
-  "ag": 2,
-  "away": "Los Angeles Football Club",
-  "venue": "UCSB Rob Gym - Field 1",
   "type": "League"
  },
  {
@@ -5095,12 +5623,34 @@
  {
   "conf": "Southwest",
   "date": "2026-10-24",
+  "time": "11:00 AM PDT",
+  "home": "Santa Barbara Soccer Club",
+  "hg": 6,
+  "ag": 2,
+  "away": "Los Angeles Football Club",
+  "venue": "UCSB Rob Gym - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-24",
   "time": "12:00 PM PDT",
   "home": "Los Angeles Sports Club",
   "hg": 3,
   "ag": 2,
   "away": "LA Galaxy",
   "venue": "La Canada High School - Stadium",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-24",
+  "time": "1:00 PM PDT",
+  "home": "SoCal Reds FC",
+  "hg": 1,
+  "ag": 5,
+  "away": "LA Surf Soccer Club",
+  "venue": "Orange County Great Park - Field 13",
   "type": "League"
  },
  {
@@ -5128,17 +5678,6 @@
  {
   "conf": "Southwest",
   "date": "2026-10-25",
-  "time": "1:00 PM PDT",
-  "home": "Phoenix Rising FC",
-  "hg": 1,
-  "ag": 3,
-  "away": "ALBION SC San Diego",
-  "venue": "Phoenix Rising FC Youth Complex - North Field",
-  "type": "League"
- },
- {
-  "conf": "Southwest",
-  "date": "2026-10-25",
   "time": "11:00 AM PDT",
   "home": "Strikers FC",
   "hg": 1,
@@ -5150,12 +5689,155 @@
  {
   "conf": "Southwest",
   "date": "2026-10-25",
+  "time": "1:00 PM PDT",
+  "home": "Phoenix Rising FC",
+  "hg": 1,
+  "ag": 3,
+  "away": "ALBION SC San Diego",
+  "venue": "Phoenix Rising FC Youth Complex - North Field",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-25",
   "time": "9:00 AM PDT",
   "home": "Albion SC Las Vegas",
   "hg": 1,
   "ag": 2,
   "away": "FC Golden State Force",
   "venue": "Aventura Park - Middle Field",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-31",
+  "time": "10:30 AM PDT",
+  "home": "RSL Arizona Mesa",
+  "hg": 1,
+  "ag": 6,
+  "away": "City SC Southwest",
+  "venue": "Scottsdale Prep - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-31",
+  "time": "10:45 AM PDT",
+  "home": "LA Surf Soccer Club",
+  "hg": 8,
+  "ag": 1,
+  "away": "Santa Barbara Soccer Club",
+  "venue": "San Marino High School - Stadium",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-31",
+  "time": "11:00 AM PDT",
+  "home": "Las Vegas Sports Academy",
+  "hg": 2,
+  "ag": 3,
+  "away": "Chula Vista FC",
+  "venue": "Viper Lacrosse Fields Family Sports Complex - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-31",
+  "time": "11:00 AM PDT",
+  "home": "Los Angeles Football Club",
+  "hg": 0,
+  "ag": 3,
+  "away": "Strikers FC",
+  "venue": "South Grass Training Fields",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-31",
+  "time": "1:00 PM MDT",
+  "home": "SC Del Sol",
+  "hg": 3,
+  "ag": 3,
+  "away": "Ventura County Fusion",
+  "venue": "Arizona Athletic Grounds - Field 10",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-10-31",
+  "time": "1:30 PM PDT",
+  "home": "RSL Arizona",
+  "hg": 2,
+  "ag": 2,
+  "away": "San Diego FC",
+  "venue": "Scottsdale Prep - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-01",
+  "time": "11:00 AM MST",
+  "home": "SC Del Sol",
+  "hg": 3,
+  "ag": 6,
+  "away": "City SC Southwest",
+  "venue": "Copper Sky - Field 5",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-01",
+  "time": "11:00 AM PST",
+  "home": "FC Golden State Force",
+  "hg": 1,
+  "ag": 2,
+  "away": "Albion SC Los Angeles",
+  "venue": "Silverlakes Field in Norco - Grass - Field 24",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-01",
+  "time": "11:00 AM PST",
+  "home": "RSL Arizona Mesa",
+  "hg": 0,
+  "ag": 7,
+  "away": "San Diego FC",
+  "venue": "Scottsdale Prep - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-01",
+  "time": "11:00 AM PST",
+  "home": "Total Futbol Academy",
+  "hg": 6,
+  "ag": 1,
+  "away": "Los Angeles Bulls Soccer Club",
+  "venue": "Silverlakes Field in Norco - Silverlakes Sports Complex Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-01",
+  "time": "5:00 PM PST",
+  "home": "SoCal Reds FC",
+  "hg": 1,
+  "ag": 1,
+  "away": "Los Angeles Sports Club",
+  "venue": "Orange County Great Park - OC Great Park Soccer Field #12",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-01",
+  "time": "9:00 AM PST",
+  "home": "Albion SC Las Vegas",
+  "hg": 1,
+  "ag": 1,
+  "away": "Chula Vista FC",
+  "venue": "James Regional Sports Park - Field 10",
   "type": "League"
  }
 ]

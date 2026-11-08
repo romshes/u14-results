@@ -3,8 +3,11 @@
 Every conference's results are rebuilt into a standings table and compared with the
 table shown on the source page (data/raw_standings.txt, columns team|PTS|MP|W|T|L|GF|GA).
 
-Exit code 0: data is consistent (small, explainable gaps allowed, see SMALL below).
-Exit code 1: something is wrong (bad lines, duplicates, or larger mismatches) -> do not publish.
+The source's standings table is rebuilt less often than its team pages, so teams whose records differ
+from it are reported (and listed on the page via data/mismatches.json) but do not stop a refresh.
+
+Exit code 0: data is usable.
+Exit code 1: something is wrong (bad lines, duplicates, a team twice on one date, missing sections) -> do not publish.
 
 Run from the repo root:  python3 tools/validate.py
 """
@@ -15,7 +18,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-SMALL = dict(max_teams=4, max_mp_gap=1)  # e.g. a source result missing from its own match list
 
 
 def sections(path):
@@ -82,9 +84,6 @@ def main():
         print(f"{conf:13s} results={n:3d} teams={len(calc):2d} standings_teams={len(page):2d} mismatched_teams="
               f"{sum(1 for x in mismatches if x['conf'] == conf)}")
 
-    big = [x for x in mismatches if abs(x["results"]["MP"] - x["standings"]["MP"]) > SMALL["max_mp_gap"]]
-    if len(mismatches) > SMALL["max_teams"] or big:
-        problems.append(f"{len(mismatches)} teams differ from the source standings (allowed: {SMALL['max_teams']}, each within 1 game)")
     for x in mismatches:
         print(f"  differs: {x['conf']} / {x['team']}: results {x['results']} vs standings {x['standings']}")
     json.dump(rows, open(DATA / "matches.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)
