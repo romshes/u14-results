@@ -8,7 +8,7 @@ The live page is https://romshes.github.io/u14-results/ (GitHub Pages serves `ma
 
 ## Steps
 
-1. Work in the repo root and make sure it is current: `git pull --ff-only`.
+1. Work in the repo root and make sure it is current: `git checkout main && git pull --ff-only`.
 
 2. Clear old fetch files: `rm -rf data/fetch && mkdir -p data/fetch`.
 
