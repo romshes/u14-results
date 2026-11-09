@@ -8,4 +8,4 @@ Sortable, phone-friendly page of MLS NEXT Homegrown Division U14 league results 
 - Teams tab: record, points per game, goal difference, schedule strength, opponent-adjusted goal difference, form, streaks.
 - Filter by conference, weekend, result and winning margin; tap a team to see its games.
 
-Scores as of Nov 3, 2026, from [leaguetables-soccer.pages.dev](https://leaguetables-soccer.pages.dev/mls-next-homegrown-division/u14). Official schedule: [mlssoccer.com/mlsnext/schedule/u14](https://www.mlssoccer.com/mlsnext/schedule/u14/).
+Scores from the official [MLS NEXT schedule](https://www.mlssoccer.com/mlsnext/schedule/all/), refreshed by `tools/fetch_official.py` (see `UPDATING.md`).

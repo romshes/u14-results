@@ -1,10 +1,8 @@
 """Parse data/raw_matches.txt and data/raw_standings.txt, cross-check them, and write data/matches.json.
 
-Every conference's results are rebuilt into a standings table and compared with the
-table shown on the source page (data/raw_standings.txt, columns team|PTS|MP|W|T|L|GF|GA).
-
-The source's standings table is rebuilt less often than its team pages, so teams whose records differ
-from it are reported (and listed on the page via data/mismatches.json) but do not stop a refresh.
+Every conference's results are rebuilt into a standings table and compared with
+data/raw_standings.txt (columns team|PTS|MP|W|T|L|GF|GA), written by tools/fetch_official.py.
+Teams whose records differ are reported (and listed on the page via data/mismatches.json) but do not stop a refresh.
 
 Exit code 0: data is usable.
 Exit code 1: something is wrong (bad lines, duplicates, a team twice on one date, missing sections) -> do not publish.

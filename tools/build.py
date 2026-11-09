@@ -36,7 +36,7 @@ def nice_stamp(s):
 stamps = Counter(c["as_of"] for c in confs.values())
 main_stamp = stamps.most_common(1)[0][0]
 newest = max(stamp(c["as_of"]) for c in confs.values())
-odd = [f"the {name} page as of {nice_stamp(c['as_of'])}" for name, c in confs.items() if c["as_of"] != main_stamp]
+odd = [f"{name} as of {nice_stamp(c['as_of'])}" for name, c in confs.items() if c["as_of"] != main_stamp]
 scheduled = sum(c["total"] for c in confs.values())
 pending = sum(c["pending"] for c in confs.values())
 
@@ -55,23 +55,20 @@ for r in rows:
     data.append(rec)
 
 # ---- notes ----
-src = (f'League results for the MLS NEXT Homegrown Division U14 age group, {meta["season"]}, as listed on '
-       f'<a href="{meta["source"]}">leaguetables-soccer.pages.dev</a> (data as of {nice_stamp(main_stamp)}'
+src = (f'League results for the MLS NEXT Homegrown Division U14 age group, {meta["season"]}, from the official '
+       f'<a href="{meta["source"]}">MLS NEXT schedule</a> on mlssoccer.com (data as of {nice_stamp(main_stamp)}'
        + (f'; {"; ".join(odd)}' if odd else "") + "). "
-       "Every conference's results are checked against that site's standings table"
-       + (", and they agree except as noted below. " if mismatches else " and agree. ")
-       + f'Official schedule and standings: <a href="{meta["official"]}">mlssoccer.com/mlsnext/schedule/u14</a>.')
-gap = f'{pending} played games still show "score pending" at the source.'
+       "The official U14 groups don't publish a points table, so team records here are computed from these results.")
+gap = f'{pending} games that have kicked off have no score in the official schedule yet.'
 if mismatches:
     names = ", ".join(f'{e(x["team"])} ({x["conf"]})' for x in mismatches)
-    gap += (f" The source updates its standings table and its team pages at different times, so for {len(mismatches)} "
-            f"teams the records here (built from the latest results on the team pages) differ from that table by a game or two: {names}.")
+    gap += f" For {len(mismatches)} teams the records here differ from the source's table: {names}."
 flag_note = ""
 if flagged:
     ex = flagged[0]
     flag_note = (f'<p id="flagnote">† Results marked † have a final score but are dated after the last update '
                  f'(for example {e(ex["home"])} {ex["hg"]}–{ex["ag"]} {e(ex["away"])}, dated {nice_day(dt.date.fromisoformat(ex["date"]))}). '
-                 "They may be forfeits or data-entry errors. The source counts them in its standings, so they are counted here too.</p>")
+                 "They may be forfeits or data-entry errors. The official schedule lists them as completed, so they are counted here too.</p>")
 NOTES = f"""    <p><strong>Source.</strong> {src}</p>
     <p><strong>Not here yet.</strong> {gap}</p>
     {flag_note}
