@@ -90,6 +90,7 @@
 2026-10-24|9:00 AM CDT|Dallas Hornets|1|2|ALBION SC Colorado|Dallas College Richland Campus Soccer Fields - Field #3|League
 2026-10-25|11:00 AM CDT|Tulsa Greenwood SC|6|2|ALBION SC Colorado|Ascension St. John Sportsplex - Field 9|League
 2026-10-25|11:00 AM MDT|Real Salt Lake|6|0|SGA|Zion's Bank Training Center - Indoor Training Field (West)|League
+2026-11-07|10:00 AM MST|ALBION SC Colorado|1|0|Dallas Hornets|East Boulder Community Center - West Turf|League
 === Mid-America
 2026-09-05|1:45 PM EDT|Club Ohio|2|2|Michigan Wolves|Kilbourne Run Sports Turf #5|League
 2026-09-05|2:00 PM CDT|Chicago FC United|0|2|Cincinnati United Soccer Club|Loyola Academy Munz Campus - Field 8|League
@@ -248,6 +249,7 @@
 2026-11-01|1:00 PM EST|Achilles FC|2|4|Sporting Athletic Club|Maryland SoccerPlex - Field 1|League
 2026-11-01|2:00 PM EST|Players Development Academy|0|4|FC DELCO|PDA Soccer Complex - Field 3 Turf|League
 2026-11-07|10:00 AM EST|Keystone FC|2|4|Northern Virginia Alliance|Bermudian Springs High School - Softball/Field Hockey|League
+2026-11-07|11:00 AM EST|Bethesda SC|3|1|The Football Academy|Maryland SoccerPlex - Field 15|League
 2026-11-07|2:00 PM EST|Players Development Academy|1|3|Cedar Stars Academy Monmouth|PDA Soccer Complex - Field 3 Turf|League
 === Northeast
 2026-09-05|12:00 PM EDT|FC Westchester|4|1|TSF Academy|SUNY Purchase - Baseball Turf|League
@@ -316,9 +318,12 @@
 2026-10-25|3:00 PM EDT|New York City FC|14|2|The Island FC East|Da Silva Memorial Field|League
 2026-10-25|8:00 AM EDT|Downtown United Soccer Club|3|2|Seacoast United|Queens College - Queens College|League
 2026-10-25|9:00 AM EDT|NEFC|11|0|FA Euro New York|NEFC Park - Field 1|League
+2026-10-31|3:00 PM EDT|New England Revolution|7|0|Ironbound Soccer Club|Revolution Training Center - Field 4|League
 2026-10-31|7:00 PM EDT|Blau Weiss Gottschee|9|2|Downtown United Soccer Club|Aviator - Field 1|League
+2026-11-01|11:00 AM EST|Intercontinental Football Academy of New England|5|2|Ironbound Soccer Club|Medway High School - North (Bottom)|League
 2026-11-01|11:00 AM EST|New York SC|2|4|Beachside of Connecticut|Hackley School - North Turf|League
 2026-11-01|12:00 PM EST|Connecticut United FC|3|3|Cedar Stars Academy Bergen|Immaculate High School - Stadium Field|League
+2026-11-01|1:00 PM EST|Valeo Futbol Club|2|6|FC Westchester|Valeo Sport Plex - Main Field|League
 2026-11-01|4:30 PM EST|Seacoast United|1|1|FC Greater Boston Bolts|Seacoast United Epping Outdoor Complex - Field 4|League
 2026-11-07|10:45 AM EST|FC Greater Boston Bolts|3|2|NEFC|Minuteman High School - Baseball Field|League
 2026-11-07|2:30 PM EST|Connecticut United FC|2|0|Bayside FC|Rogers Park - John Perry Turf Field|League
@@ -370,6 +375,7 @@
 2026-10-31|1:00 PM PDT|De Anza Force|2|3|FC Bay Area Surf|De Anza College - Soccer Field|League
 2026-10-31|1:45 PM PDT|San Francisco Glens SC|3|3|Atletico Santa Rosa|Beach Chalet Soccer Field - Field 2|League
 2026-10-31|3:30 PM PDT|San Jose Earthquakes|3|0|Woodside Soccer Club Crush|Ohlone College - Soccer Field|League
+2026-11-07|11:00 AM PST|Ballistic United|6|0|Woodside Soccer Club Crush|Stanford Medical Sports Complex - East|League
 === Southeast
 2026-09-05|10:00 AM CDT|Huntsville City FC|5|3|Queen City Mutiny FC|John Hunt Complex - Field 5|League
 2026-09-05|12:00 PM EDT|Triangle United Soccer Association|1|2|Chattanooga FC|Soccer.com - #2|League
@@ -435,6 +441,8 @@
 2026-11-01|9:00 AM EST|Lanier Soccer Association|4|2|AFC Lightning|Allen Creek Soccer Complex - Field 4|League
 2026-11-01|9:00 AM EST|Southern Soccer Academy|0|0|Carolina Core FC|Franklin Gateway sports complex - Field 2|League
 2026-11-07|11:00 AM EST|Atlanta United|5|3|Queen City Mutiny FC|Atlanta United Training Ground - 5|League
+2026-11-07|9:00 AM EST|Lanier Soccer Association|0|1|Southern Soccer Academy|Allen Creek Soccer Complex - Field 4|League
+2026-11-08|12:00 PM EST|AFC Lightning|2|0|KSA|McCurry Park South - Field 24|League
 2026-11-20|7:00 PM EST|Atlanta United|3|0|KSA|Atlanta United Training Ground - 5|League
 === Southwest
 2026-09-05|10:45 AM PDT|City SC - San Diego|13|1|RSL Arizona Mesa|Aviara Community Park - Aviara Community Park|League
@@ -537,3 +545,7 @@
 2026-11-01|11:00 AM PST|Total Futbol Academy|6|1|Los Angeles Bulls Soccer Club|Silverlakes Field in Norco - Silverlakes Sports Complex Field 2|League
 2026-11-01|5:00 PM PST|SoCal Reds FC|1|1|Los Angeles Sports Club|Orange County Great Park - OC Great Park Soccer Field #12|League
 2026-11-01|9:00 AM PST|Albion SC Las Vegas|1|1|Chula Vista FC|James Regional Sports Park - Field 10|League
+2026-11-07|11:00 AM PST|Santa Barbara Soccer Club|2|3|Las Vegas Sports Academy|UCSB Rob Gym - Field 1|League
+2026-11-07|11:00 AM PST|Ventura County Fusion|8|3|RSL Arizona Mesa|Ventura Community Park - Field 1|League
+2026-11-07|9:00 AM PST|ALBION SC San Diego|4|3|RSL Arizona|Muir Language Academy|League
+2026-11-08|11:00 AM PST|Ventura County Fusion|2|4|Las Vegas Sports Academy|Santa Paula Creek Sports Park|League

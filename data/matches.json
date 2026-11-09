@@ -990,6 +990,17 @@
   "type": "League"
  },
  {
+  "conf": "Frontier",
+  "date": "2026-11-07",
+  "time": "10:00 AM MST",
+  "home": "ALBION SC Colorado",
+  "hg": 1,
+  "ag": 0,
+  "away": "Dallas Hornets",
+  "venue": "East Boulder Community Center - West Turf",
+  "type": "League"
+ },
+ {
   "conf": "Mid-America",
   "date": "2026-09-05",
   "time": "1:45 PM EDT",
@@ -2708,6 +2719,17 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-11-07",
+  "time": "11:00 AM EST",
+  "home": "Bethesda SC",
+  "hg": 3,
+  "ag": 1,
+  "away": "The Football Academy",
+  "venue": "Maryland SoccerPlex - Field 15",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-07",
   "time": "2:00 PM EST",
   "home": "Players Development Academy",
   "hg": 1,
@@ -3445,12 +3467,34 @@
  {
   "conf": "Northeast",
   "date": "2026-10-31",
+  "time": "3:00 PM EDT",
+  "home": "New England Revolution",
+  "hg": 7,
+  "ag": 0,
+  "away": "Ironbound Soccer Club",
+  "venue": "Revolution Training Center - Field 4",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-10-31",
   "time": "7:00 PM EDT",
   "home": "Blau Weiss Gottschee",
   "hg": 9,
   "ag": 2,
   "away": "Downtown United Soccer Club",
   "venue": "Aviator - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-01",
+  "time": "11:00 AM EST",
+  "home": "Intercontinental Football Academy of New England",
+  "hg": 5,
+  "ag": 2,
+  "away": "Ironbound Soccer Club",
+  "venue": "Medway High School - North (Bottom)",
   "type": "League"
  },
  {
@@ -3473,6 +3517,17 @@
   "ag": 3,
   "away": "Cedar Stars Academy Bergen",
   "venue": "Immaculate High School - Stadium Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-01",
+  "time": "1:00 PM EST",
+  "home": "Valeo Futbol Club",
+  "hg": 2,
+  "ag": 6,
+  "away": "FC Westchester",
+  "venue": "Valeo Sport Plex - Main Field",
   "type": "League"
  },
  {
@@ -4023,6 +4078,17 @@
   "ag": 0,
   "away": "Woodside Soccer Club Crush",
   "venue": "Ohlone College - Soccer Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-11-07",
+  "time": "11:00 AM PST",
+  "home": "Ballistic United",
+  "hg": 6,
+  "ag": 0,
+  "away": "Woodside Soccer Club Crush",
+  "venue": "Stanford Medical Sports Complex - East",
   "type": "League"
  },
  {
@@ -4727,6 +4793,28 @@
   "ag": 3,
   "away": "Queen City Mutiny FC",
   "venue": "Atlanta United Training Ground - 5",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-07",
+  "time": "9:00 AM EST",
+  "home": "Lanier Soccer Association",
+  "hg": 0,
+  "ag": 1,
+  "away": "Southern Soccer Academy",
+  "venue": "Allen Creek Soccer Complex - Field 4",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-08",
+  "time": "12:00 PM EST",
+  "home": "AFC Lightning",
+  "hg": 2,
+  "ag": 0,
+  "away": "KSA",
+  "venue": "McCurry Park South - Field 24",
   "type": "League"
  },
  {
@@ -5838,6 +5926,50 @@
   "ag": 1,
   "away": "Chula Vista FC",
   "venue": "James Regional Sports Park - Field 10",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-07",
+  "time": "11:00 AM PST",
+  "home": "Santa Barbara Soccer Club",
+  "hg": 2,
+  "ag": 3,
+  "away": "Las Vegas Sports Academy",
+  "venue": "UCSB Rob Gym - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-07",
+  "time": "11:00 AM PST",
+  "home": "Ventura County Fusion",
+  "hg": 8,
+  "ag": 3,
+  "away": "RSL Arizona Mesa",
+  "venue": "Ventura Community Park - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-07",
+  "time": "9:00 AM PST",
+  "home": "ALBION SC San Diego",
+  "hg": 4,
+  "ag": 3,
+  "away": "RSL Arizona",
+  "venue": "Muir Language Academy",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-08",
+  "time": "11:00 AM PST",
+  "home": "Ventura County Fusion",
+  "hg": 2,
+  "ag": 4,
+  "away": "Las Vegas Sports Academy",
+  "venue": "Santa Paula Creek Sports Park",
   "type": "League"
  }
 ]

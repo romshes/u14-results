@@ -287,6 +287,28 @@
  },
  {
   "conf": "Frontier",
+  "team": "ALBION SC Colorado",
+  "results": {
+   "MP": 10,
+   "W": 5,
+   "T": 0,
+   "L": 5,
+   "GF": 15,
+   "GA": 25,
+   "PTS": 15
+  },
+  "standings": {
+   "PTS": 12,
+   "MP": 9,
+   "W": 4,
+   "T": 0,
+   "L": 5,
+   "GF": 14,
+   "GA": 25
+  }
+ },
+ {
+  "conf": "Frontier",
   "team": "Austin FC",
   "results": {
    "MP": 4,
@@ -327,6 +349,28 @@
    "L": 6,
    "GF": 4,
    "GA": 25
+  }
+ },
+ {
+  "conf": "Frontier",
+  "team": "Dallas Hornets",
+  "results": {
+   "MP": 5,
+   "W": 2,
+   "T": 0,
+   "L": 3,
+   "GF": 5,
+   "GA": 9,
+   "PTS": 6
+  },
+  "standings": {
+   "PTS": 6,
+   "MP": 4,
+   "W": 2,
+   "T": 0,
+   "L": 2,
+   "GF": 5,
+   "GA": 8
   }
  },
  {
@@ -639,6 +683,28 @@
  },
  {
   "conf": "Mid-Atlantic",
+  "team": "Bethesda SC",
+  "results": {
+   "MP": 9,
+   "W": 2,
+   "T": 2,
+   "L": 5,
+   "GF": 7,
+   "GA": 25,
+   "PTS": 8
+  },
+  "standings": {
+   "PTS": 5,
+   "MP": 8,
+   "W": 1,
+   "T": 2,
+   "L": 5,
+   "GF": 4,
+   "GA": 24
+  }
+ },
+ {
+  "conf": "Mid-Atlantic",
   "team": "Cedar Stars Academy Monmouth",
   "results": {
    "MP": 9,
@@ -723,6 +789,28 @@
    "L": 6,
    "GF": 13,
    "GA": 27
+  }
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "team": "The Football Academy",
+  "results": {
+   "MP": 9,
+   "W": 6,
+   "T": 0,
+   "L": 3,
+   "GF": 23,
+   "GA": 10,
+   "PTS": 18
+  },
+  "standings": {
+   "PTS": 18,
+   "MP": 8,
+   "W": 6,
+   "T": 0,
+   "L": 2,
+   "GF": 22,
+   "GA": 7
   }
  },
  {
@@ -881,6 +969,72 @@
  },
  {
   "conf": "Northeast",
+  "team": "FC Westchester",
+  "results": {
+   "MP": 9,
+   "W": 7,
+   "T": 1,
+   "L": 1,
+   "GF": 30,
+   "GA": 15,
+   "PTS": 22
+  },
+  "standings": {
+   "PTS": 19,
+   "MP": 8,
+   "W": 6,
+   "T": 1,
+   "L": 1,
+   "GF": 24,
+   "GA": 13
+  }
+ },
+ {
+  "conf": "Northeast",
+  "team": "Intercontinental Football Academy of New England",
+  "results": {
+   "MP": 7,
+   "W": 4,
+   "T": 1,
+   "L": 2,
+   "GF": 22,
+   "GA": 17,
+   "PTS": 13
+  },
+  "standings": {
+   "PTS": 10,
+   "MP": 6,
+   "W": 3,
+   "T": 1,
+   "L": 2,
+   "GF": 17,
+   "GA": 15
+  }
+ },
+ {
+  "conf": "Northeast",
+  "team": "Ironbound Soccer Club",
+  "results": {
+   "MP": 10,
+   "W": 2,
+   "T": 2,
+   "L": 6,
+   "GF": 17,
+   "GA": 41,
+   "PTS": 8
+  },
+  "standings": {
+   "PTS": 8,
+   "MP": 8,
+   "W": 2,
+   "T": 2,
+   "L": 4,
+   "GF": 15,
+   "GA": 29
+  }
+ },
+ {
+  "conf": "Northeast",
   "team": "NEFC",
   "results": {
    "MP": 9,
@@ -899,6 +1053,28 @@
    "L": 4,
    "GF": 21,
    "GA": 11
+  }
+ },
+ {
+  "conf": "Northeast",
+  "team": "New England Revolution",
+  "results": {
+   "MP": 6,
+   "W": 3,
+   "T": 2,
+   "L": 1,
+   "GF": 22,
+   "GA": 15,
+   "PTS": 11
+  },
+  "standings": {
+   "PTS": 8,
+   "MP": 5,
+   "W": 2,
+   "T": 2,
+   "L": 1,
+   "GF": 15,
+   "GA": 15
   }
  },
  {
@@ -946,6 +1122,50 @@
   }
  },
  {
+  "conf": "Northeast",
+  "team": "Valeo Futbol Club",
+  "results": {
+   "MP": 7,
+   "W": 2,
+   "T": 1,
+   "L": 4,
+   "GF": 15,
+   "GA": 21,
+   "PTS": 7
+  },
+  "standings": {
+   "PTS": 7,
+   "MP": 6,
+   "W": 2,
+   "T": 1,
+   "L": 3,
+   "GF": 13,
+   "GA": 15
+  }
+ },
+ {
+  "conf": "Northwest",
+  "team": "ALBION SC Merced",
+  "results": {
+   "MP": 6,
+   "W": 0,
+   "T": 2,
+   "L": 4,
+   "GF": 13,
+   "GA": 21,
+   "PTS": 2
+  },
+  "standings": {
+   "PTS": 2,
+   "MP": 8,
+   "W": 0,
+   "T": 2,
+   "L": 6,
+   "GF": 13,
+   "GA": 25
+  }
+ },
+ {
   "conf": "Northwest",
   "team": "Atletico Santa Rosa",
   "results": {
@@ -958,35 +1178,13 @@
    "PTS": 12
   },
   "standings": {
-   "PTS": 11,
-   "MP": 5,
-   "W": 3,
-   "T": 2,
-   "L": 0,
-   "GF": 15,
-   "GA": 3
-  }
- },
- {
-  "conf": "Northwest",
-  "team": "Ballistic United",
-  "results": {
+   "PTS": 15,
    "MP": 7,
-   "W": 3,
-   "T": 2,
-   "L": 2,
-   "GF": 14,
-   "GA": 11,
-   "PTS": 11
-  },
-  "standings": {
-   "PTS": 8,
-   "MP": 6,
-   "W": 2,
-   "T": 2,
-   "L": 2,
-   "GF": 10,
-   "GA": 9
+   "W": 4,
+   "T": 3,
+   "L": 0,
+   "GF": 20,
+   "GA": 6
   }
  },
  {
@@ -1003,12 +1201,12 @@
   },
   "standings": {
    "PTS": 5,
-   "MP": 6,
+   "MP": 8,
    "W": 1,
    "T": 2,
-   "L": 3,
-   "GF": 6,
-   "GA": 14
+   "L": 5,
+   "GF": 8,
+   "GA": 19
   }
  },
  {
@@ -1024,13 +1222,13 @@
    "PTS": 9
   },
   "standings": {
-   "PTS": 6,
-   "MP": 5,
-   "W": 2,
+   "PTS": 12,
+   "MP": 7,
+   "W": 4,
    "T": 0,
    "L": 3,
-   "GF": 8,
-   "GA": 16
+   "GF": 14,
+   "GA": 18
   }
  },
  {
@@ -1047,12 +1245,12 @@
   },
   "standings": {
    "PTS": 9,
-   "MP": 7,
+   "MP": 9,
    "W": 3,
    "T": 0,
-   "L": 4,
+   "L": 6,
    "GF": 15,
-   "GA": 19
+   "GA": 26
   }
  },
  {
@@ -1068,35 +1266,13 @@
    "PTS": 11
   },
   "standings": {
-   "PTS": 11,
-   "MP": 5,
+   "PTS": 12,
+   "MP": 7,
    "W": 3,
-   "T": 2,
-   "L": 0,
-   "GF": 10,
-   "GA": 3
-  }
- },
- {
-  "conf": "Northwest",
-  "team": "Sacramento Republic FC",
-  "results": {
-   "MP": 6,
-   "W": 6,
-   "T": 0,
-   "L": 0,
-   "GF": 20,
-   "GA": 1,
-   "PTS": 18
-  },
-  "standings": {
-   "PTS": 15,
-   "MP": 5,
-   "W": 5,
-   "T": 0,
-   "L": 0,
-   "GF": 17,
-   "GA": 1
+   "T": 3,
+   "L": 1,
+   "GF": 11,
+   "GA": 7
   }
  },
  {
@@ -1112,35 +1288,13 @@
    "PTS": 7
   },
   "standings": {
-   "PTS": 7,
-   "MP": 6,
-   "W": 2,
-   "T": 1,
-   "L": 3,
-   "GF": 12,
-   "GA": 14
-  }
- },
- {
-  "conf": "Northwest",
-  "team": "San Francisco Glens SC",
-  "results": {
-   "MP": 7,
-   "W": 2,
-   "T": 3,
-   "L": 2,
-   "GF": 17,
-   "GA": 14,
-   "PTS": 9
-  },
-  "standings": {
    "PTS": 8,
-   "MP": 6,
+   "MP": 8,
    "W": 2,
    "T": 2,
-   "L": 2,
-   "GF": 14,
-   "GA": 11
+   "L": 4,
+   "GF": 15,
+   "GA": 19
   }
  },
  {
@@ -1156,79 +1310,35 @@
    "PTS": 11
   },
   "standings": {
-   "PTS": 8,
-   "MP": 6,
-   "W": 2,
+   "PTS": 14,
+   "MP": 8,
+   "W": 4,
    "T": 2,
    "L": 2,
-   "GF": 13,
+   "GF": 18,
    "GA": 9
   }
  },
  {
   "conf": "Northwest",
-  "team": "Silicon Valley Soccer Academy",
+  "team": "The Town FC Academy",
   "results": {
+   "MP": 6,
+   "W": 4,
+   "T": 1,
+   "L": 1,
+   "GF": 11,
+   "GA": 8,
+   "PTS": 13
+  },
+  "standings": {
+   "PTS": 16,
    "MP": 7,
-   "W": 3,
-   "T": 2,
-   "L": 2,
-   "GF": 20,
-   "GA": 12,
-   "PTS": 11
-  },
-  "standings": {
-   "PTS": 8,
-   "MP": 6,
-   "W": 2,
-   "T": 2,
-   "L": 2,
-   "GF": 15,
-   "GA": 12
-  }
- },
- {
-  "conf": "Northwest",
-  "team": "Woodside Soccer Club Crush",
-  "results": {
-   "MP": 6,
-   "W": 0,
-   "T": 0,
-   "L": 6,
-   "GF": 1,
-   "GA": 23,
-   "PTS": 0
-  },
-  "standings": {
-   "PTS": 0,
-   "MP": 5,
-   "W": 0,
-   "T": 0,
-   "L": 5,
-   "GF": 1,
-   "GA": 20
-  }
- },
- {
-  "conf": "Southeast",
-  "team": "AFC Lightning",
-  "results": {
-   "MP": 10,
-   "W": 2,
+   "W": 5,
    "T": 1,
-   "L": 7,
-   "GF": 19,
-   "GA": 31,
-   "PTS": 7
-  },
-  "standings": {
-   "PTS": 10,
-   "MP": 11,
-   "W": 3,
-   "T": 1,
-   "L": 7,
-   "GF": 21,
-   "GA": 31
+   "L": 1,
+   "GF": 12,
+   "GA": 8
   }
  },
  {
@@ -1255,50 +1365,6 @@
  },
  {
   "conf": "Southeast",
-  "team": "KSA",
-  "results": {
-   "MP": 9,
-   "W": 4,
-   "T": 0,
-   "L": 5,
-   "GF": 9,
-   "GA": 18,
-   "PTS": 12
-  },
-  "standings": {
-   "PTS": 12,
-   "MP": 10,
-   "W": 4,
-   "T": 0,
-   "L": 6,
-   "GF": 9,
-   "GA": 20
-  }
- },
- {
-  "conf": "Southeast",
-  "team": "Lanier Soccer Association",
-  "results": {
-   "MP": 5,
-   "W": 2,
-   "T": 0,
-   "L": 3,
-   "GF": 9,
-   "GA": 17,
-   "PTS": 6
-  },
-  "standings": {
-   "PTS": 6,
-   "MP": 6,
-   "W": 2,
-   "T": 0,
-   "L": 4,
-   "GF": 9,
-   "GA": 18
-  }
- },
- {
-  "conf": "Southeast",
   "team": "Nashville United Soccer Academy (NUSA Next)",
   "results": {
    "MP": 7,
@@ -1320,25 +1386,135 @@
   }
  },
  {
-  "conf": "Southeast",
-  "team": "Southern Soccer Academy",
+  "conf": "Southwest",
+  "team": "ALBION SC San Diego",
+  "results": {
+   "MP": 9,
+   "W": 3,
+   "T": 2,
+   "L": 4,
+   "GF": 21,
+   "GA": 23,
+   "PTS": 11
+  },
+  "standings": {
+   "PTS": 8,
+   "MP": 8,
+   "W": 2,
+   "T": 2,
+   "L": 4,
+   "GF": 17,
+   "GA": 20
+  }
+ },
+ {
+  "conf": "Southwest",
+  "team": "Las Vegas Sports Academy",
+  "results": {
+   "MP": 11,
+   "W": 6,
+   "T": 1,
+   "L": 4,
+   "GF": 30,
+   "GA": 35,
+   "PTS": 19
+  },
+  "standings": {
+   "PTS": 13,
+   "MP": 9,
+   "W": 4,
+   "T": 1,
+   "L": 4,
+   "GF": 23,
+   "GA": 31
+  }
+ },
+ {
+  "conf": "Southwest",
+  "team": "RSL Arizona",
   "results": {
    "MP": 10,
-   "W": 3,
+   "W": 4,
    "T": 3,
-   "L": 4,
-   "GF": 10,
-   "GA": 21,
-   "PTS": 12
+   "L": 3,
+   "GF": 26,
+   "GA": 23,
+   "PTS": 15
   },
   "standings": {
    "PTS": 15,
-   "MP": 11,
+   "MP": 9,
    "W": 4,
    "T": 3,
-   "L": 4,
-   "GF": 11,
-   "GA": 21
+   "L": 2,
+   "GF": 23,
+   "GA": 19
+  }
+ },
+ {
+  "conf": "Southwest",
+  "team": "RSL Arizona Mesa",
+  "results": {
+   "MP": 10,
+   "W": 1,
+   "T": 0,
+   "L": 9,
+   "GF": 8,
+   "GA": 72,
+   "PTS": 3
+  },
+  "standings": {
+   "PTS": 3,
+   "MP": 9,
+   "W": 1,
+   "T": 0,
+   "L": 8,
+   "GF": 5,
+   "GA": 64
+  }
+ },
+ {
+  "conf": "Southwest",
+  "team": "Santa Barbara Soccer Club",
+  "results": {
+   "MP": 10,
+   "W": 3,
+   "T": 0,
+   "L": 7,
+   "GF": 20,
+   "GA": 34,
+   "PTS": 9
+  },
+  "standings": {
+   "PTS": 9,
+   "MP": 9,
+   "W": 3,
+   "T": 0,
+   "L": 6,
+   "GF": 18,
+   "GA": 31
+  }
+ },
+ {
+  "conf": "Southwest",
+  "team": "Ventura County Fusion",
+  "results": {
+   "MP": 8,
+   "W": 1,
+   "T": 1,
+   "L": 6,
+   "GF": 19,
+   "GA": 38,
+   "PTS": 4
+  },
+  "standings": {
+   "PTS": 1,
+   "MP": 6,
+   "W": 0,
+   "T": 1,
+   "L": 5,
+   "GF": 9,
+   "GA": 31
   }
  }
 ]
