@@ -4808,6 +4808,17 @@
  },
  {
   "conf": "Southeast",
+  "date": "2026-11-07",
+  "time": "11:00 AM CST",
+  "home": "Nashville United Soccer Academy (NUSA Next)",
+  "hg": 1,
+  "ag": 3,
+  "away": "Inter Atlanta FC",
+  "venue": "Oakland High School - Oakland High School Turf",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
   "date": "2026-11-08",
   "time": "12:00 PM EST",
   "home": "AFC Lightning",
@@ -4815,6 +4826,39 @@
   "ag": 0,
   "away": "KSA",
   "venue": "McCurry Park South - Field 24",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-08",
+  "time": "11:00 AM EST",
+  "home": "Chattanooga FC",
+  "hg": 1,
+  "ag": 3,
+  "away": "Atlanta United",
+  "venue": "UTC Sports Complex - Upper Field",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-08",
+  "time": "1:00 PM CST",
+  "home": "Nashville United Soccer Academy (NUSA Next)",
+  "hg": 2,
+  "ag": 0,
+  "away": "Triangle United Soccer Association",
+  "venue": "Centennial High School Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-08",
+  "time": "3:00 PM EST",
+  "home": "Queen City Mutiny FC",
+  "hg": 1,
+  "ag": 0,
+  "away": "Wake FC",
+  "venue": "Elon Park - Field 1",
   "type": "League"
  },
  {

@@ -1343,37 +1343,59 @@
  },
  {
   "conf": "Southeast",
-  "team": "Inter Atlanta FC",
+  "team": "Atlanta United",
   "results": {
-   "MP": 10,
-   "W": 6,
-   "T": 3,
-   "L": 1,
-   "GF": 27,
-   "GA": 8,
-   "PTS": 21
+   "MP": 12,
+   "W": 11,
+   "T": 1,
+   "L": 0,
+   "GF": 56,
+   "GA": 14,
+   "PTS": 34
   },
   "standings": {
-   "PTS": 24,
+   "PTS": 31,
    "MP": 11,
-   "W": 7,
-   "T": 3,
-   "L": 1,
-   "GF": 30,
-   "GA": 9
+   "W": 10,
+   "T": 1,
+   "L": 0,
+   "GF": 53,
+   "GA": 13
+  }
+ },
+ {
+  "conf": "Southeast",
+  "team": "Chattanooga FC",
+  "results": {
+   "MP": 11,
+   "W": 5,
+   "T": 1,
+   "L": 5,
+   "GF": 24,
+   "GA": 18,
+   "PTS": 16
+  },
+  "standings": {
+   "PTS": 16,
+   "MP": 10,
+   "W": 5,
+   "T": 1,
+   "L": 4,
+   "GF": 23,
+   "GA": 15
   }
  },
  {
   "conf": "Southeast",
   "team": "Nashville United Soccer Academy (NUSA Next)",
   "results": {
-   "MP": 7,
-   "W": 1,
+   "MP": 9,
+   "W": 2,
    "T": 1,
-   "L": 5,
-   "GF": 5,
-   "GA": 19,
-   "PTS": 4
+   "L": 6,
+   "GF": 8,
+   "GA": 22,
+   "PTS": 7
   },
   "standings": {
    "PTS": 4,
@@ -1383,6 +1405,72 @@
    "L": 6,
    "GF": 6,
    "GA": 22
+  }
+ },
+ {
+  "conf": "Southeast",
+  "team": "Queen City Mutiny FC",
+  "results": {
+   "MP": 12,
+   "W": 5,
+   "T": 1,
+   "L": 6,
+   "GF": 25,
+   "GA": 27,
+   "PTS": 16
+  },
+  "standings": {
+   "PTS": 13,
+   "MP": 11,
+   "W": 4,
+   "T": 1,
+   "L": 6,
+   "GF": 24,
+   "GA": 27
+  }
+ },
+ {
+  "conf": "Southeast",
+  "team": "Triangle United Soccer Association",
+  "results": {
+   "MP": 8,
+   "W": 2,
+   "T": 1,
+   "L": 5,
+   "GF": 13,
+   "GA": 24,
+   "PTS": 7
+  },
+  "standings": {
+   "PTS": 7,
+   "MP": 7,
+   "W": 2,
+   "T": 1,
+   "L": 4,
+   "GF": 13,
+   "GA": 22
+  }
+ },
+ {
+  "conf": "Southeast",
+  "team": "Wake FC",
+  "results": {
+   "MP": 8,
+   "W": 4,
+   "T": 1,
+   "L": 3,
+   "GF": 17,
+   "GA": 14,
+   "PTS": 13
+  },
+  "standings": {
+   "PTS": 13,
+   "MP": 7,
+   "W": 4,
+   "T": 1,
+   "L": 2,
+   "GF": 17,
+   "GA": 13
   }
  },
  {

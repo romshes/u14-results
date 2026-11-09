@@ -442,7 +442,11 @@
 2026-11-01|9:00 AM EST|Southern Soccer Academy|0|0|Carolina Core FC|Franklin Gateway sports complex - Field 2|League
 2026-11-07|11:00 AM EST|Atlanta United|5|3|Queen City Mutiny FC|Atlanta United Training Ground - 5|League
 2026-11-07|9:00 AM EST|Lanier Soccer Association|0|1|Southern Soccer Academy|Allen Creek Soccer Complex - Field 4|League
+2026-11-07|11:00 AM CST|Nashville United Soccer Academy (NUSA Next)|1|3|Inter Atlanta FC|Oakland High School - Oakland High School Turf|League
 2026-11-08|12:00 PM EST|AFC Lightning|2|0|KSA|McCurry Park South - Field 24|League
+2026-11-08|11:00 AM EST|Chattanooga FC|1|3|Atlanta United|UTC Sports Complex - Upper Field|League
+2026-11-08|1:00 PM CST|Nashville United Soccer Academy (NUSA Next)|2|0|Triangle United Soccer Association|Centennial High School Field 1|League
+2026-11-08|3:00 PM EST|Queen City Mutiny FC|1|0|Wake FC|Elon Park - Field 1|League
 2026-11-20|7:00 PM EST|Atlanta United|3|0|KSA|Atlanta United Training Ground - 5|League
 === Southwest
 2026-09-05|10:45 AM PDT|City SC - San Diego|13|1|RSL Arizona Mesa|Aviara Community Park - Aviara Community Park|League
