@@ -364,6 +364,7 @@
 2026-11-08|12:00 PM EST|Beachside of Connecticut|0|1|New England Revolution|Harding High School - Turf Field|League
 2026-11-08|5:00 PM EST|Blau Weiss Gottschee|2|4|The Island FC West|Aviator - Field 1|League
 2026-11-08|6:15 PM EST|FC Greater Boston Bolts|4|4|Intercontinental Football Academy of New England|Valeo Sport Plex - Main Field|League
+2026-11-08|1:00 PM EST|Ironbound Soccer Club|5|0|Bayside FC|Ironbound Stadium|League
 2026-11-08|10:00 AM EST|TSF Academy|3|4|New York SC|DePaul Catholic High School - Stadium Field|League
 2026-11-08|10:00 AM EST|The Island FC East|2|8|New York City FC|Medford Athletic Complex (Long Island)|League
 2027-06-08|10:15 AM EDT|The Island FC East|2|0|Blau Weiss Gottschee|Medford Athletic Complex (Long Island)|League

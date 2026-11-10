@@ -3973,6 +3973,17 @@
  {
   "conf": "Northeast",
   "date": "2026-11-08",
+  "time": "1:00 PM EST",
+  "home": "Ironbound Soccer Club",
+  "hg": 5,
+  "ag": 0,
+  "away": "Bayside FC",
+  "venue": "Ironbound Stadium",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-08",
   "time": "10:00 AM EST",
   "home": "TSF Academy",
   "hg": 3,
