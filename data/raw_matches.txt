@@ -361,6 +361,7 @@
 2026-11-07|9:30 AM EST|Downtown United Soccer Club|5|0|Metropolitan Oval|Queens College - Queens College|League
 2026-11-07|10:45 AM EST|FC Greater Boston Bolts|3|2|NEFC|Minuteman High School - Baseball Field|League
 2026-11-07|2:00 PM EST|FC Westchester|2|1|Cedar Stars Academy Bergen|SUNY Purchase - Baseball Turf|League
+2026-11-07|11:00 AM EST|Intercontinental Football Academy of New England|1|1|Valeo Futbol Club|Union Point Sports Complex - Field 2|League
 2026-11-08|12:00 PM EST|Beachside of Connecticut|0|1|New England Revolution|Harding High School - Turf Field|League
 2026-11-08|5:00 PM EST|Blau Weiss Gottschee|2|4|The Island FC West|Aviator - Field 1|League
 2026-11-08|6:15 PM EST|FC Greater Boston Bolts|4|4|Intercontinental Football Academy of New England|Valeo Sport Plex - Main Field|League
@@ -609,4 +610,5 @@
 2026-11-08|8:30 AM PST|Los Angeles Bulls Soccer Club|0|1|Phoenix Rising FC|Birmingham Community Charter High School|League
 2026-11-08|5:00 PM PST|Los Angeles Sports Club|3|1|LA Surf Soccer Club|West Covina High School Turf Field|League
 2026-11-08|11:00 AM PST|Santa Barbara Soccer Club|2|0|RSL Arizona Mesa|UCSB Rob Gym - Field 1|League
+2026-11-08|1:00 PM PST|Total Futbol Academy|7|2|City SC Southwest|Silverlakes Sports Complex - Field 8|League
 2026-11-08|11:00 AM PST|Ventura County Fusion|2|4|Las Vegas Sports Academy|Santa Paula Creek Sports Park|League

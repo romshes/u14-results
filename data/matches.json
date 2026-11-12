@@ -3939,6 +3939,17 @@
  },
  {
   "conf": "Northeast",
+  "date": "2026-11-07",
+  "time": "11:00 AM EST",
+  "home": "Intercontinental Football Academy of New England",
+  "hg": 1,
+  "ag": 1,
+  "away": "Valeo Futbol Club",
+  "venue": "Union Point Sports Complex - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
   "date": "2026-11-08",
   "time": "12:00 PM EST",
   "home": "Beachside of Connecticut",
@@ -6630,6 +6641,17 @@
   "ag": 0,
   "away": "RSL Arizona Mesa",
   "venue": "UCSB Rob Gym - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-08",
+  "time": "1:00 PM PST",
+  "home": "Total Futbol Academy",
+  "hg": 7,
+  "ag": 2,
+  "away": "City SC Southwest",
+  "venue": "Silverlakes Sports Complex - Field 8",
   "type": "League"
  },
  {

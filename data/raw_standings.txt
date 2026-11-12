@@ -76,7 +76,7 @@ Downtown United Soccer Club|13|10|4|1|5|22|39
 FA Euro New York|4|8|1|1|6|13|40
 FC Greater Boston Bolts|7|8|1|4|3|16|23
 FC Westchester|25|10|8|1|1|32|16
-Intercontinental Football Academy of New England|14|9|4|2|3|29|25
+Intercontinental Football Academy of New England|15|10|4|3|3|30|26
 Ironbound Soccer Club|11|11|3|2|6|22|41
 Metropolitan Oval|20|11|6|2|3|23|14
 NEFC|13|10|4|1|5|25|14
@@ -87,7 +87,7 @@ Seacoast United|4|7|1|1|5|11|17
 TSF Academy|9|6|3|0|3|24|22
 The Island FC East|3|7|1|0|6|11|43
 The Island FC West|11|8|3|2|3|14|13
-Valeo Futbol Club|7|7|2|1|4|15|21
+Valeo Futbol Club|8|8|2|2|4|16|22
 === Northwest
 ALBION SC Merced|2|8|0|2|6|13|25
 Atletico Santa Rosa|15|7|4|3|0|20|6
@@ -125,7 +125,7 @@ ALBION SC San Diego|11|9|3|2|4|21|23
 Albion SC Los Angeles|14|9|4|2|3|17|15
 Chula Vista FC|13|8|4|1|3|23|22
 City SC - San Diego|17|11|5|2|4|40|17
-City SC Southwest|7|10|2|1|7|19|35
+City SC Southwest|7|11|2|1|8|21|42
 FC Golden State Force|21|10|6|3|1|24|9
 LA Galaxy|24|11|7|3|1|41|13
 Las Vegas Sports Academy|19|11|6|1|4|30|35
@@ -141,5 +141,5 @@ San Diego FC|20|9|6|2|1|41|15
 Santa Barbara Soccer Club|12|11|4|0|7|22|34
 SoCal Reds FC|15|11|4|3|4|19|20
 Strikers FC|18|9|5|3|1|29|5
-Total Futbol Academy|22|9|7|1|1|24|7
+Total Futbol Academy|25|10|8|1|1|31|9
 Ventura County Fusion|4|8|1|1|6|19|38
