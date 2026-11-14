@@ -627,6 +627,17 @@
   "type": "League"
  },
  {
+  "conf": "Florida",
+  "date": "2026-11-13",
+  "time": "6:00 PM EST",
+  "home": "Inter Miami CF",
+  "hg": 0,
+  "ag": 0,
+  "away": "Weston FC",
+  "venue": "Florida Blue Training Center - Field 4",
+  "type": "League"
+ },
+ {
   "conf": "Frontier",
   "date": "2026-09-05",
   "time": "9:00 AM MDT",
@@ -2097,6 +2108,17 @@
   "hg": 0,
   "ag": 1,
   "away": "Sockers FC Chicago",
+  "venue": "World Wide Technology Soccer Park - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-11-14",
+  "time": "9:00 AM CST",
+  "home": "St. Louis Scott Gallagher",
+  "hg": 3,
+  "ag": 0,
+  "away": "Bavarian United SC",
   "venue": "World Wide Technology Soccer Park - Field 2",
   "type": "League"
  },
@@ -5376,6 +5398,17 @@
   "ag": 0,
   "away": "Wake FC",
   "venue": "Elon Park - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-14",
+  "time": "9:00 AM EST",
+  "home": "Southern Soccer Academy",
+  "hg": 0,
+  "ag": 2,
+  "away": "Huntsville City FC",
+  "venue": "Marathon Park - Field 3",
   "type": "League"
  },
  {

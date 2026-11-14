@@ -56,6 +56,7 @@
 2026-11-07|3:00 PM EST|Athletum FC Academy|0|2|Tampa Bay United|JCC Posnack - Stadium Field|League
 2026-11-07|12:00 PM EST|IdeaSport SA|1|2|One FC|North East Regional Park - NERP #3|League
 2026-11-08|1:00 PM EST|Miami Futbol Academy Rush|1|0|Orlando City SC|Kendall Soccer Park - Field 4|League
+2026-11-13|6:00 PM EST|Inter Miami CF|0|0|Weston FC|Florida Blue Training Center - Field 4|League
 === Frontier
 2026-09-05|9:00 AM MDT|Real Salt Lake|5|1|ALBION SC Colorado|Zion's Bank Training Center - Indoor Training Field (West)|League
 2026-09-12|2:00 PM CDT|Austin FC|5|2|AC River|St. David's Performance Center – Field 3|League
@@ -192,6 +193,7 @@
 2026-11-08|12:00 PM EST|Hoosier Premier|0|6|Sporting City|Hoosier Futbol Club - MSMF|League
 2026-11-08|1:15 PM EST|Indy Eleven|3|0|AC Grand Rapids|Grand Park Sports Campus - Field 7|League
 2026-11-08|11:00 AM CST|St. Louis Scott Gallagher|0|1|Sockers FC Chicago|World Wide Technology Soccer Park - Field 2|League
+2026-11-14|9:00 AM CST|St. Louis Scott Gallagher|3|0|Bavarian United SC|World Wide Technology Soccer Park - Field 2|League
 === Mid-Atlantic
 2026-09-05|12:00 PM EDT|Keystone FC|0|1|Beadling SC|Bermudian Springs Middle School|League
 2026-09-06|12:30 PM EDT|Bethesda SC|2|2|Sporting Athletic Club|Maryland SoccerPlex - Field 4|League
@@ -494,6 +496,7 @@
 2026-11-08|11:00 AM EST|Chattanooga FC|1|3|Atlanta United|UTC Sports Complex - Upper Field|League
 2026-11-08|1:00 PM CST|Nashville United Soccer Academy (NUSA Next)|2|0|Triangle United Soccer Association|Centennial High School Field 1|League
 2026-11-08|3:00 PM EST|Queen City Mutiny FC|1|0|Wake FC|Elon Park - Field 1|League
+2026-11-14|9:00 AM EST|Southern Soccer Academy|0|2|Huntsville City FC|Marathon Park - Field 3|League
 2026-11-20|7:00 PM EST|Atlanta United|3|0|KSA|Atlanta United Training Ground - 5|League
 === Southwest
 2026-09-05|11:00 AM PDT|Chula Vista FC|6|2|Las Vegas Sports Academy|Victory Christian Academy - Field 1|League
