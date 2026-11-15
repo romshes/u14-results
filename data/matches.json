@@ -684,6 +684,17 @@
  {
   "conf": "Florida",
   "date": "2026-11-15",
+  "time": "3:00 PM EST",
+  "home": "West Florida Flames",
+  "hg": 3,
+  "ag": 0,
+  "away": "Seminole United",
+  "venue": "JC Handly Sport Complex - JC Handly Park # 7",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-11-15",
   "time": "1:00 PM EST",
   "home": "Weston FC",
   "hg": 2,
@@ -2301,6 +2312,17 @@
  {
   "conf": "Mid-America",
   "date": "2026-11-15",
+  "time": "3:30 PM CST",
+  "home": "St. Louis City SC",
+  "hg": 5,
+  "ag": 1,
+  "away": "Bavarian United SC",
+  "venue": "St. Louis City SC - St. Louis City SC Academy Training Center",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-11-15",
   "time": "11:00 AM CST",
   "home": "St. Louis Scott Gallagher",
   "hg": 2,
@@ -3253,6 +3275,17 @@
   "ag": 0,
   "away": "PA Classics",
   "venue": "Hayfield Secondary School - Auxiliary Field",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-14",
+  "time": "2:00 PM EST",
+  "home": "Players Development Academy",
+  "hg": 2,
+  "ag": 2,
+  "away": "PA Classics",
+  "venue": "PDA Soccer Complex - Field 3 Turf",
   "type": "League"
  },
  {
@@ -7213,6 +7246,17 @@
   "ag": 0,
   "away": "Las Vegas Sports Academy",
   "venue": "Bell Road Sports Complex - Field #13",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-14",
+  "time": "11:00 AM PST",
+  "home": "San Diego FC",
+  "hg": 2,
+  "ag": 5,
+  "away": "Los Angeles Sports Club",
+  "venue": "Sharp Healthcare Performance Center - Field 2",
   "type": "League"
  },
  {

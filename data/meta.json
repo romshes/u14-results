@@ -3,13 +3,13 @@
   "source": "https://www.mlssoccer.com/mlsnext/schedule/all/",
   "official": "https://www.mlssoccer.com/mlsnext/schedule/u14/",
   "conferences": {
-    "Florida":      {"slug": "florida",      "total": 210, "pending": 3,  "as_of": "2026-11-15 22:20 UTC"},
-    "Frontier":     {"slug": "frontier",     "total": 132, "pending": 0,  "as_of": "2026-11-15 22:20 UTC"},
-    "Mid-America":  {"slug": "mid-america",  "total": 226, "pending": 1,  "as_of": "2026-11-15 22:20 UTC"},
-    "Mid-Atlantic": {"slug": "mid-atlantic", "total": 225, "pending": 4,  "as_of": "2026-11-15 22:20 UTC"},
-    "Northeast":    {"slug": "northeast",    "total": 272, "pending": 1,  "as_of": "2026-11-15 22:20 UTC"},
-    "Northwest":    {"slug": "northwest",    "total": 182, "pending": 2,  "as_of": "2026-11-15 22:20 UTC"},
-    "Southeast":    {"slug": "southeast",    "total": 210, "pending": 2,  "as_of": "2026-11-15 22:20 UTC"},
-    "Southwest":    {"slug": "southwest",    "total": 378, "pending": 2,  "as_of": "2026-11-15 22:20 UTC"}
+    "Florida":      {"slug": "florida",      "total": 210, "pending": 3,  "as_of": "2026-11-15 23:20 UTC"},
+    "Frontier":     {"slug": "frontier",     "total": 132, "pending": 0,  "as_of": "2026-11-15 23:20 UTC"},
+    "Mid-America":  {"slug": "mid-america",  "total": 226, "pending": 2,  "as_of": "2026-11-15 23:20 UTC"},
+    "Mid-Atlantic": {"slug": "mid-atlantic", "total": 225, "pending": 3,  "as_of": "2026-11-15 23:20 UTC"},
+    "Northeast":    {"slug": "northeast",    "total": 272, "pending": 1,  "as_of": "2026-11-15 23:20 UTC"},
+    "Northwest":    {"slug": "northwest",    "total": 182, "pending": 2,  "as_of": "2026-11-15 23:20 UTC"},
+    "Southeast":    {"slug": "southeast",    "total": 210, "pending": 2,  "as_of": "2026-11-15 23:20 UTC"},
+    "Southwest":    {"slug": "southwest",    "total": 378, "pending": 1,  "as_of": "2026-11-15 23:20 UTC"}
   }
 }

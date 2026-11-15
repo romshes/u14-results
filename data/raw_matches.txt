@@ -61,6 +61,7 @@
 2026-11-14|2:30 PM EST|One FC|4|0|Sol SC Florida|North Bay Village Soccer Field #1|League
 2026-11-14|1:00 PM EST|Orlando City Soccer School South|2|1|Seminole United|Simmers Young Park - Field 10|League
 2026-11-15|2:00 PM EST|IdeaSport SA|4|2|South Florida Football Academy|Simmers Young Park - Field 12|League
+2026-11-15|3:00 PM EST|West Florida Flames|3|0|Seminole United|JC Handly Sport Complex - JC Handly Park # 7|League
 2026-11-15|1:00 PM EST|Weston FC|2|1|IMG|Vista Park - Vista #4|League
 === Frontier
 2026-09-05|9:00 AM MDT|Real Salt Lake|5|1|ALBION SC Colorado|Zion's Bank Training Center - Indoor Training Field (West)|League
@@ -210,6 +211,7 @@
 2026-11-15|9:45 AM EST|Club Ohio|5|1|Chicago FC United|Jennings Sports Park Turf #4|League
 2026-11-15|12:00 PM EST|FC Cincinnati|1|2|Sockers FC Chicago|Mercy Health Training Center - Field #3 - TURF|League
 2026-11-15|12:00 PM EST|Michigan Jaguars|3|5|Indy Eleven|North Farmington High School – Stadium Turf|League
+2026-11-15|3:30 PM CST|St. Louis City SC|5|1|Bavarian United SC|St. Louis City SC - St. Louis City SC Academy Training Center|League
 2026-11-15|11:00 AM CST|St. Louis Scott Gallagher|2|2|Lou Fusz Athletic|World Wide Technology Soccer Park - Field 2|League
 2026-11-15|9:00 AM EST|Vardar Soccer Club|1|3|SC Wave|Oakland University Upper Turf Fields - North Field|League
 === Mid-Atlantic
@@ -298,6 +300,7 @@
 2026-11-08|10:00 AM EST|Keystone FC|0|2|Real Futbol Academy|Bermudian Springs Middle School|League
 2026-11-08|12:00 PM EST|Sporting Athletic Club|1|3|Alexandria SA|Chase Fields - Field 4|League
 2026-11-08|12:15 PM EST|Springfield SYC|1|0|PA Classics|Hayfield Secondary School - Auxiliary Field|League
+2026-11-14|2:00 PM EST|Players Development Academy|2|2|PA Classics|PDA Soccer Complex - Field 3 Turf|League
 2026-11-14|6:00 PM EST|Real Futbol Academy|0|0|Penn Rising XI|Bob Bende Soccer Complex - Payer Matrix Turf (Near Woods)|League
 2026-11-14|1:00 PM EST|The Football Academy|1|4|Baltimore Armour|Livingston High school Stadium Field|League
 2026-11-15|9:30 AM EST|FC DELCO|1|1|Baltimore Armour|Downingtown East High School - Upper Turf|League
@@ -662,6 +665,7 @@
 2026-11-14|11:00 AM PST|Chula Vista FC|3|1|Albion SC Las Vegas|Victory Christian Academy - Field 1|League
 2026-11-14|11:00 AM PST|LA Galaxy|4|3|Total Futbol Academy|Dignity Health Sports Park - Field 5|League
 2026-11-14|11:00 AM MST|RSL Arizona|2|0|Las Vegas Sports Academy|Bell Road Sports Complex - Field #13|League
+2026-11-14|11:00 AM PST|San Diego FC|2|5|Los Angeles Sports Club|Sharp Healthcare Performance Center - Field 2|League
 2026-11-14|11:00 AM PST|SoCal Reds FC|1|1|ALBION SC San Diego|Orange County Great Park - OC Great Park Soccer Field #13|League
 2026-11-14|11:00 AM PST|Strikers FC|4|3|Los Angeles Football Club|Orange County Great Park - Field 4|League
 2026-11-15|10:30 AM PST|City SC Southwest|1|5|Los Angeles Sports Club|Patricia H. Birdsall Sports Park - Field 4|League
