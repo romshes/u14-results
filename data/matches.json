@@ -672,6 +672,17 @@
  },
  {
   "conf": "Florida",
+  "date": "2026-11-14",
+  "time": "1:00 PM EST",
+  "home": "West Florida Flames",
+  "hg": 0,
+  "ag": 1,
+  "away": "Tampa Bay United",
+  "venue": "JC Handly Sport Complex - JC Handly Park # 7",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
   "date": "2026-11-15",
   "time": "2:00 PM EST",
   "home": "IdeaSport SA",
@@ -679,6 +690,17 @@
   "ag": 2,
   "away": "South Florida Football Academy",
   "venue": "Simmers Young Park - Field 12",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-11-15",
+  "time": "2:00 PM EST",
+  "home": "Orlando City SC",
+  "hg": 5,
+  "ag": 0,
+  "away": "Tampa Bay United",
+  "venue": "Osceola Heritage Park - Turf Field/3",
   "type": "League"
  },
  {
@@ -2278,6 +2300,17 @@
  },
  {
   "conf": "Mid-America",
+  "date": "2026-11-14",
+  "time": "3:00 PM EST",
+  "home": "Vardar Soccer Club",
+  "hg": 0,
+  "ag": 1,
+  "away": "Midwest United FC",
+  "venue": "Oakland University Upper Turf Fields - North Field",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
   "date": "2026-11-15",
   "time": "9:45 AM EST",
   "home": "Club Ohio",
@@ -2296,6 +2329,17 @@
   "ag": 2,
   "away": "Sockers FC Chicago",
   "venue": "Mercy Health Training Center - Field #3 - TURF",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-11-15",
+  "time": "3:00 PM EST",
+  "home": "Hoosier Premier",
+  "hg": 1,
+  "ag": 0,
+  "away": "Cincinnati United Soccer Club",
+  "venue": "Trinity Sports Park - Indy Premier Field 2",
   "type": "League"
  },
  {
@@ -3313,6 +3357,39 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-11-15",
+  "time": "1:00 PM EST",
+  "home": "Beadling SC",
+  "hg": 1,
+  "ag": 4,
+  "away": "Sporting Athletic Club",
+  "venue": "Seneca Valley High School - Myers Field",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-15",
+  "time": "11:00 AM EST",
+  "home": "Cedar Stars Academy Monmouth",
+  "hg": 2,
+  "ag": 0,
+  "away": "Keystone FC",
+  "venue": "Capelli Sport Complex - Field #1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-15",
+  "time": "5:00 PM EST",
+  "home": "Coppermine SC",
+  "hg": 1,
+  "ag": 3,
+  "away": "Alexandria SA",
+  "venue": "Coppermine Norris Field #1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-15",
   "time": "9:30 AM EST",
   "home": "FC DELCO",
   "hg": 1,
@@ -3330,6 +3407,17 @@
   "ag": 0,
   "away": "Bethesda SC",
   "venue": "Lightridge High School - Turf Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-15",
+  "time": "12:00 PM EST",
+  "home": "Springfield SYC",
+  "hg": 4,
+  "ag": 0,
+  "away": "Achilles FC",
+  "venue": "Hayfield Secondary School - Auxiliary Field",
   "type": "League"
  },
  {
@@ -4380,6 +4468,28 @@
  {
   "conf": "Northeast",
   "date": "2026-11-15",
+  "time": "5:00 PM EST",
+  "home": "Blau Weiss Gottschee",
+  "hg": 1,
+  "ag": 1,
+  "away": "Ironbound Soccer Club",
+  "venue": "Queens College - Queens College",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-15",
+  "time": "7:00 PM EST",
+  "home": "FA Euro New York",
+  "hg": 1,
+  "ag": 6,
+  "away": "The Island FC West",
+  "venue": "New Utrecht High School - Athletic Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-15",
   "time": "12:00 PM EST",
   "home": "New England Revolution",
   "hg": 6,
@@ -5057,6 +5167,28 @@
   "ag": 2,
   "away": "The Town FC Academy",
   "venue": "Mayfield Soccer Complex - Mayfield South",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-11-14",
+  "time": "11:00 AM PST",
+  "home": "Woodside Soccer Club Crush",
+  "hg": 3,
+  "ag": 3,
+  "away": "FC Bay Area Surf",
+  "venue": "Woodside High School Bradley - Stadium",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-11-15",
+  "time": "11:00 AM PST",
+  "home": "San Jose Earthquakes",
+  "hg": 3,
+  "ag": 0,
+  "away": "San Francisco Glens SC",
+  "venue": "Ohlone College - Soccer Field",
   "type": "League"
  },
  {
@@ -5910,11 +6042,33 @@
   "conf": "Southeast",
   "date": "2026-11-15",
   "time": "11:00 AM EST",
+  "home": "Inter Atlanta FC",
+  "hg": 9,
+  "ag": 2,
+  "away": "Hoover-Vestavia Soccer",
+  "venue": "Arizona Avenue Soccer Fields AZ 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-15",
+  "time": "11:00 AM EST",
   "home": "Lanier Soccer Association",
   "hg": 0,
   "ag": 2,
   "away": "Atlanta United",
   "venue": "ALLEN CREEK SOCCER COMPLEX - FIELD 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-15",
+  "time": "1:00 PM EST",
+  "home": "Queen City Mutiny FC",
+  "hg": 1,
+  "ag": 2,
+  "away": "KSA",
+  "venue": "Elon Park - Field 1",
   "type": "League"
  },
  {
@@ -7284,6 +7438,17 @@
  {
   "conf": "Southwest",
   "date": "2026-11-15",
+  "time": "3:00 PM PST",
+  "home": "Albion SC Los Angeles",
+  "hg": 1,
+  "ag": 1,
+  "away": "ALBION SC San Diego",
+  "venue": "Long Beach City College - FIELD 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-15",
   "time": "10:30 AM PST",
   "home": "City SC Southwest",
   "hg": 1,
@@ -7323,6 +7488,17 @@
   "ag": 0,
   "away": "FC Golden State Force",
   "venue": "UCSB Rob Gym - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-15",
+  "time": "10:45 AM PST",
+  "home": "Ventura County Fusion",
+  "hg": 4,
+  "ag": 2,
+  "away": "Los Angeles Bulls Soccer Club",
+  "venue": "Ventura College - Stadium",
   "type": "League"
  }
 ]
