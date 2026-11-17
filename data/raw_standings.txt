@@ -1,10 +1,10 @@
 # team|PTS|MP|W|T|L|GF|GA
 === Florida
-Athletum FC Academy|9|9|2|3|4|15|18
+Athletum FC Academy|10|10|2|4|4|16|19
 IMG|10|9|3|1|5|14|16
 IdeaSport SA|11|7|3|2|2|15|10
 Inter Miami CF|17|7|5|2|0|13|2
-Jacksonville FC|10|7|3|1|3|12|16
+Jacksonville FC|11|8|3|2|3|13|17
 Miami Futbol Academy Rush|17|8|5|2|1|14|7
 One FC|13|10|4|1|5|19|14
 Orlando City SC|20|9|6|2|1|26|7
@@ -124,7 +124,7 @@ Albion SC Las Vegas|21|13|6|3|4|25|22
 ALBION SC San Diego|13|11|3|4|4|23|25
 Albion SC Los Angeles|18|11|5|3|3|21|17
 Chula Vista FC|16|9|5|1|3|26|23
-City SC - San Diego|17|11|5|2|4|40|17
+City SC - San Diego|15|11|4|3|4|40|18
 City SC Southwest|7|12|2|1|9|22|47
 FC Golden State Force|22|11|6|4|1|24|9
 LA Galaxy|27|12|8|3|1|45|16
@@ -139,7 +139,7 @@ RSL Arizona Mesa|3|11|1|0|10|8|74
 SC Del Sol|7|11|1|4|6|24|36
 San Diego FC|20|10|6|2|2|43|20
 Santa Barbara Soccer Club|13|13|4|1|8|23|37
-SoCal Reds FC|16|12|4|4|4|20|21
+SoCal Reds FC|17|12|4|5|3|21|21
 Strikers FC|21|10|6|3|1|33|8
 Total Futbol Academy|25|11|8|1|2|34|13
 Ventura County Fusion|7|9|2|1|6|23|40

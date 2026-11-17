@@ -62,6 +62,7 @@
 2026-11-14|1:00 PM EST|Orlando City Soccer School South|2|1|Seminole United|Simmers Young Park - Field 10|League
 2026-11-14|1:00 PM EST|West Florida Flames|0|1|Tampa Bay United|JC Handly Sport Complex - JC Handly Park # 7|League
 2026-11-15|2:00 PM EST|IdeaSport SA|4|2|South Florida Football Academy|Simmers Young Park - Field 12|League
+2026-11-15|10:30 AM EST|Jacksonville FC|1|1|Athletum FC Academy|Patton Park - Field 4|League
 2026-11-15|2:00 PM EST|Orlando City SC|5|0|Tampa Bay United|Osceola Heritage Park - Turf Field/3|League
 2026-11-15|3:00 PM EST|West Florida Flames|3|0|Seminole United|JC Handly Sport Complex - JC Handly Park # 7|League
 2026-11-15|1:00 PM EST|Weston FC|2|1|IMG|Vista Park - Vista #4|League
@@ -669,7 +670,7 @@
 2026-11-07|11:00 AM PST|Total Futbol Academy|6|0|Phoenix Rising FC|Silverlakes Field in Norco - Silverlakes Sports Complex Field 2|League
 2026-11-07|11:00 AM PST|Ventura County Fusion|8|3|RSL Arizona Mesa|Ventura Community Park - Field 1|League
 2026-11-08|10:45 AM PST|Chula Vista FC|1|5|RSL Arizona|Hoover High School - Stadium|League
-2026-11-08|11:00 AM PST|City SC - San Diego|2|1|SoCal Reds FC|Poinsettia Community Park - Poinsettia Community Park|League
+2026-11-08|11:00 AM PST|City SC - San Diego|2|2|SoCal Reds FC|Poinsettia Community Park - Poinsettia Community Park|League
 2026-11-08|8:30 AM PST|Los Angeles Bulls Soccer Club|0|1|Phoenix Rising FC|Birmingham Community Charter High School|League
 2026-11-08|5:00 PM PST|Los Angeles Sports Club|3|1|LA Surf Soccer Club|West Covina High School Turf Field|League
 2026-11-08|11:00 AM PST|Santa Barbara Soccer Club|2|0|RSL Arizona Mesa|UCSB Rob Gym - Field 1|League

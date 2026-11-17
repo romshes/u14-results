@@ -695,6 +695,17 @@
  {
   "conf": "Florida",
   "date": "2026-11-15",
+  "time": "10:30 AM EST",
+  "home": "Jacksonville FC",
+  "hg": 1,
+  "ag": 1,
+  "away": "Athletum FC Academy",
+  "venue": "Patton Park - Field 4",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
+  "date": "2026-11-15",
   "time": "2:00 PM EST",
   "home": "Orlando City SC",
   "hg": 5,
@@ -7298,7 +7309,7 @@
   "time": "11:00 AM PST",
   "home": "City SC - San Diego",
   "hg": 2,
-  "ag": 1,
+  "ag": 2,
   "away": "SoCal Reds FC",
   "venue": "Poinsettia Community Park - Poinsettia Community Park",
   "type": "League"
