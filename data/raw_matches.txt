@@ -414,6 +414,7 @@
 2026-11-15|7:00 PM EST|FA Euro New York|1|6|The Island FC West|New Utrecht High School - Athletic Field|League
 2026-11-15|12:00 PM EST|New England Revolution|6|0|Seacoast United|Revolution Training Center - Field 4|League
 2026-11-15|10:30 AM EST|New York SC|3|0|FC Greater Boston Bolts|Manhattanville College (Turf) - Mville Turf|League
+2026-11-15|2:00 PM EST|TSF Academy|3|4|The Island FC East|DePaul Catholic High School - Stadium Field|League
 2027-06-08|10:15 AM EDT|The Island FC East|2|0|Blau Weiss Gottschee|Medford Athletic Complex (Long Island)|League
 === Northwest
 2026-09-05|5:00 PM PDT|Lamorinda Soccer Club|3|0|Sacramento United|Wilder Fields - Field 2 - Wilder 2|League
@@ -689,3 +690,4 @@
 2026-11-15|11:00 AM MST|SC Del Sol|1|2|Las Vegas Sports Academy|Copper Sky - Field 6|League
 2026-11-15|11:00 AM PST|Santa Barbara Soccer Club|0|0|FC Golden State Force|UCSB Rob Gym - Field 1|League
 2026-11-15|10:45 AM PST|Ventura County Fusion|4|2|Los Angeles Bulls Soccer Club|Ventura College - Stadium|League
+2026-11-18|7:15 PM PST|ALBION SC San Diego|3|5|San Diego FC|Sharp Healthcare Performance Center - Field 1|League

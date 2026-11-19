@@ -84,8 +84,8 @@ New England Revolution|20|9|6|2|1|34|18
 New York City FC|30|10|10|0|0|80|11
 New York SC|19|9|6|1|2|30|16
 Seacoast United|4|9|1|1|7|13|26
-TSF Academy|12|7|4|0|3|31|26
-The Island FC East|3|7|1|0|6|11|43
+TSF Academy|12|8|4|0|4|34|30
+The Island FC East|6|8|2|0|6|15|46
 The Island FC West|14|9|4|2|3|20|14
 Valeo Futbol Club|11|9|3|2|4|19|24
 === Northwest
@@ -121,7 +121,7 @@ Triangle United Soccer Association|7|9|2|1|6|13|27
 Wake FC|14|9|4|2|3|18|15
 === Southwest
 Albion SC Las Vegas|21|13|6|3|4|25|22
-ALBION SC San Diego|13|11|3|4|4|23|25
+ALBION SC San Diego|13|12|3|4|5|26|30
 Albion SC Los Angeles|18|11|5|3|3|21|17
 Chula Vista FC|16|9|5|1|3|26|23
 City SC - San Diego|15|11|4|3|4|40|18
@@ -137,7 +137,7 @@ Phoenix Rising FC|3|10|1|0|9|11|36
 RSL Arizona|21|12|6|3|3|33|24
 RSL Arizona Mesa|3|11|1|0|10|8|74
 SC Del Sol|7|11|1|4|6|24|36
-San Diego FC|20|10|6|2|2|43|20
+San Diego FC|23|11|7|2|2|48|23
 Santa Barbara Soccer Club|13|13|4|1|8|23|37
 SoCal Reds FC|17|12|4|5|3|21|21
 Strikers FC|21|10|6|3|1|33|8

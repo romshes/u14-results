@@ -4522,6 +4522,17 @@
  },
  {
   "conf": "Northeast",
+  "date": "2026-11-15",
+  "time": "2:00 PM EST",
+  "home": "TSF Academy",
+  "hg": 3,
+  "ag": 4,
+  "away": "The Island FC East",
+  "venue": "DePaul Catholic High School - Stadium Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
   "date": "2027-06-08",
   "time": "10:15 AM EDT",
   "home": "The Island FC East",
@@ -7510,6 +7521,17 @@
   "ag": 2,
   "away": "Los Angeles Bulls Soccer Club",
   "venue": "Ventura College - Stadium",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-18",
+  "time": "7:15 PM PST",
+  "home": "ALBION SC San Diego",
+  "hg": 3,
+  "ag": 5,
+  "away": "San Diego FC",
+  "venue": "Sharp Healthcare Performance Center - Field 1",
   "type": "League"
  }
 ]
