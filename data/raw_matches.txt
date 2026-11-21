@@ -66,6 +66,7 @@
 2026-11-15|2:00 PM EST|Orlando City SC|5|0|Tampa Bay United|Osceola Heritage Park - Turf Field/3|League
 2026-11-15|3:00 PM EST|West Florida Flames|3|0|Seminole United|JC Handly Sport Complex - JC Handly Park # 7|League
 2026-11-15|1:00 PM EST|Weston FC|2|1|IMG|Vista Park - Vista #4|League
+2026-11-21|10:00 AM EST|IdeaSport SA|3|1|West Florida Flames|North East Regional Park - NERP #3|League
 === Frontier
 2026-09-05|9:00 AM MDT|Real Salt Lake|5|1|ALBION SC Colorado|Zion's Bank Training Center - Indoor Training Field (West)|League
 2026-09-12|2:00 PM CDT|Austin FC|5|2|AC River|St. David's Performance Center – Field 3|League
@@ -116,6 +117,7 @@
 2026-11-14|1:00 PM CST|Houston Rangers|3|4|FC Dallas|Paul D Rushing Park - Field 1|League
 2026-11-15|1:00 PM CST|Capital City SC|0|2|Tulsa Greenwood SC|Crusader Stadium at St Michael's Catholic Preparatory Academy|League
 2026-11-15|11:30 AM CST|Houston Dynamo FC|2|5|FC Dallas|Houston Sports Park - Field 1|League
+2026-11-21|9:00 AM CST|Dallas Hornets|0|2|Real Salt Lake|Dallas College Richland Campus Soccer Fields - Field #3|League
 === Mid-America
 2026-09-05|3:00 PM CDT|Bavarian United SC|4|1|Hoosier Premier|Bavarian United Soccer Club - Ramon|League
 2026-09-05|2:00 PM CDT|Chicago FC United|0|2|Cincinnati United Soccer Club|Loyola Academy Munz Campus - Field 8|League
@@ -415,6 +417,8 @@
 2026-11-15|12:00 PM EST|New England Revolution|6|0|Seacoast United|Revolution Training Center - Field 4|League
 2026-11-15|10:30 AM EST|New York SC|3|0|FC Greater Boston Bolts|Manhattanville College (Turf) - Mville Turf|League
 2026-11-15|2:00 PM EST|TSF Academy|3|4|The Island FC East|DePaul Catholic High School - Stadium Field|League
+2026-11-21|9:00 AM EST|New England Revolution|3|1|New York SC|Foxborough High School turf field|League
+2026-11-21|9:00 AM EST|The Island FC West|3|1|Intercontinental Football Academy of New England|Hofstra University - Stadium|League
 2027-06-08|10:15 AM EDT|The Island FC East|2|0|Blau Weiss Gottschee|Medford Athletic Complex (Long Island)|League
 === Northwest
 2026-09-05|5:00 PM PDT|Lamorinda Soccer Club|3|0|Sacramento United|Wilder Fields - Field 2 - Wilder 2|League
@@ -559,7 +563,6 @@
 2026-11-15|11:00 AM EST|Inter Atlanta FC|9|2|Hoover-Vestavia Soccer|Arizona Avenue Soccer Fields AZ 2|League
 2026-11-15|11:00 AM EST|Lanier Soccer Association|0|2|Atlanta United|ALLEN CREEK SOCCER COMPLEX - FIELD 1|League
 2026-11-15|1:00 PM EST|Queen City Mutiny FC|1|2|KSA|Elon Park - Field 1|League
-2026-11-20|7:00 PM EST|Atlanta United|3|0|KSA|Atlanta United Training Ground - 5|League
 === Southwest
 2026-09-05|11:00 AM PDT|Chula Vista FC|6|2|Las Vegas Sports Academy|Victory Christian Academy - Field 1|League
 2026-09-05|10:45 AM PDT|City SC - San Diego|13|1|RSL Arizona Mesa|Aviara Community Park - Aviara Community Park|League

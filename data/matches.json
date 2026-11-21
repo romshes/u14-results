@@ -737,6 +737,17 @@
   "type": "League"
  },
  {
+  "conf": "Florida",
+  "date": "2026-11-21",
+  "time": "10:00 AM EST",
+  "home": "IdeaSport SA",
+  "hg": 3,
+  "ag": 1,
+  "away": "West Florida Flames",
+  "venue": "North East Regional Park - NERP #3",
+  "type": "League"
+ },
+ {
   "conf": "Frontier",
   "date": "2026-09-05",
   "time": "9:00 AM MDT",
@@ -1273,6 +1284,17 @@
   "ag": 5,
   "away": "FC Dallas",
   "venue": "Houston Sports Park - Field 1",
+  "type": "League"
+ },
+ {
+  "conf": "Frontier",
+  "date": "2026-11-21",
+  "time": "9:00 AM CST",
+  "home": "Dallas Hornets",
+  "hg": 0,
+  "ag": 2,
+  "away": "Real Salt Lake",
+  "venue": "Dallas College Richland Campus Soccer Fields - Field #3",
   "type": "League"
  },
  {
@@ -4533,6 +4555,28 @@
  },
  {
   "conf": "Northeast",
+  "date": "2026-11-21",
+  "time": "9:00 AM EST",
+  "home": "New England Revolution",
+  "hg": 3,
+  "ag": 1,
+  "away": "New York SC",
+  "venue": "Foxborough High School turf field",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-21",
+  "time": "9:00 AM EST",
+  "home": "The Island FC West",
+  "hg": 3,
+  "ag": 1,
+  "away": "Intercontinental Football Academy of New England",
+  "venue": "Hofstra University - Stadium",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
   "date": "2027-06-08",
   "time": "10:15 AM EDT",
   "home": "The Island FC East",
@@ -6091,17 +6135,6 @@
   "ag": 2,
   "away": "KSA",
   "venue": "Elon Park - Field 1",
-  "type": "League"
- },
- {
-  "conf": "Southeast",
-  "date": "2026-11-20",
-  "time": "7:00 PM EST",
-  "home": "Atlanta United",
-  "hg": 3,
-  "ag": 0,
-  "away": "KSA",
-  "venue": "Atlanta United Training Ground - 5",
   "type": "League"
  },
  {
