@@ -771,6 +771,17 @@
  },
  {
   "conf": "Florida",
+  "date": "2026-11-22",
+  "time": "1:00 PM EST",
+  "home": "Tampa Bay United",
+  "hg": 1,
+  "ag": 4,
+  "away": "IdeaSport SA",
+  "venue": "Ed Radice Sports Complex - Field #5",
+  "type": "League"
+ },
+ {
+  "conf": "Florida",
   "date": "2027-06-08",
   "time": "9:00 AM EDT",
   "home": "South Florida Football Academy",
@@ -1371,6 +1382,28 @@
   "hg": 3,
   "ag": 2,
   "away": "FC Dallas",
+  "venue": "Ascension St. John Sportsplex - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Frontier",
+  "date": "2026-11-22",
+  "time": "11:00 AM CST",
+  "home": "SGA",
+  "hg": 1,
+  "ag": 1,
+  "away": "ALBION SC Colorado",
+  "venue": "LBJ Early College High School - Turf Field",
+  "type": "League"
+ },
+ {
+  "conf": "Frontier",
+  "date": "2026-11-22",
+  "time": "11:00 AM CST",
+  "home": "Tulsa Greenwood SC",
+  "hg": 1,
+  "ag": 0,
+  "away": "Real Salt Lake",
   "venue": "Ascension St. John Sportsplex - Field 2",
   "type": "League"
  },
@@ -2552,6 +2585,17 @@
   "type": "League"
  },
  {
+  "conf": "Mid-America",
+  "date": "2026-11-22",
+  "time": "10:00 AM EST",
+  "home": "Midwest United FC",
+  "hg": 1,
+  "ag": 2,
+  "away": "Sporting City",
+  "venue": "Aquinas College Turf Field - Aquinas College Turf Field",
+  "type": "League"
+ },
+ {
   "conf": "Mid-Atlantic",
   "date": "2026-09-05",
   "time": "12:00 PM EDT",
@@ -3619,6 +3663,17 @@
   "type": "League"
  },
  {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-22",
+  "time": "12:00 PM EST",
+  "home": "Coppermine SC",
+  "hg": 0,
+  "ag": 2,
+  "away": "Springfield SYC",
+  "venue": "St. Paul's School - St. Paul's Levering Field",
+  "type": "League"
+ },
+ {
   "conf": "Northeast",
   "date": "2026-09-05",
   "time": "12:15 PM EDT",
@@ -3645,7 +3700,7 @@
   "date": "2026-09-05",
   "time": "12:30 PM EDT",
   "home": "New England Revolution",
-  "hg": 2,
+  "hg": 3,
   "ag": 2,
   "away": "Intercontinental Football Academy of New England",
   "venue": "Revolution Training Center - Field 3",
@@ -4745,8 +4800,8 @@
   "date": "2026-11-21",
   "time": "3:00 PM EST",
   "home": "NEFC",
-  "hg": 1,
-  "ag": 3,
+  "hg": 2,
+  "ag": 2,
   "away": "Bayside FC",
   "venue": "Ashland High School",
   "type": "League"
@@ -4804,6 +4859,39 @@
   "ag": 4,
   "away": "Blau Weiss Gottschee",
   "venue": "Valeo Sport Plex - Main Field",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-22",
+  "time": "11:00 AM EST",
+  "home": "FA Euro New York",
+  "hg": 4,
+  "ag": 3,
+  "away": "Downtown United Soccer Club",
+  "venue": "John Dewey High School",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-22",
+  "time": "12:30 PM EST",
+  "home": "New England Revolution",
+  "hg": 3,
+  "ag": 1,
+  "away": "TSF Academy",
+  "venue": "Revolution Training Center Field House",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-22",
+  "time": "12:00 PM EST",
+  "home": "Seacoast United",
+  "hg": 3,
+  "ag": 1,
+  "away": "Bayside FC",
+  "venue": "Seacoast United Epping Outdoor Complex - Field 3",
   "type": "League"
  },
  {
@@ -5563,6 +5651,17 @@
   "ag": 3,
   "away": "Silicon Valley Soccer Academy",
   "venue": "Granite Regional Park - Turf",
+  "type": "League"
+ },
+ {
+  "conf": "Northwest",
+  "date": "2026-11-22",
+  "time": "11:30 AM PST",
+  "home": "San Jose Earthquakes",
+  "hg": 4,
+  "ag": 0,
+  "away": "FC Bay Area Surf",
+  "venue": "Ohlone College - Soccer Field",
   "type": "League"
  },
  {
@@ -6447,6 +6546,17 @@
  },
  {
   "conf": "Southeast",
+  "date": "2026-11-20",
+  "time": "7:00 PM EST",
+  "home": "Atlanta United",
+  "hg": 4,
+  "ag": 0,
+  "away": "KSA",
+  "venue": "Atlanta United Training Ground - 5",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
   "date": "2026-11-21",
   "time": "10:00 AM CST",
   "home": "Huntsville City FC",
@@ -6465,6 +6575,50 @@
   "ag": 1,
   "away": "Charlotte Independence Soccer Club",
   "venue": "Ting Park - Ting Park 1",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-22",
+  "time": "2:00 PM CST",
+  "home": "Hoover-Vestavia Soccer",
+  "hg": 0,
+  "ag": 5,
+  "away": "AFC Lightning",
+  "venue": "Hoover East Sports Complex - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-22",
+  "time": "12:00 PM EST",
+  "home": "KSA",
+  "hg": 2,
+  "ag": 2,
+  "away": "Inter Atlanta FC",
+  "venue": "Rock Springs Park - RSP 3",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-22",
+  "time": "1:00 PM CST",
+  "home": "Nashville United Soccer Academy (NUSA Next)",
+  "hg": 3,
+  "ag": 2,
+  "away": "Lanier Soccer Association",
+  "venue": "Oakland High School - Oakland High School Turf",
+  "type": "League"
+ },
+ {
+  "conf": "Southeast",
+  "date": "2026-11-22",
+  "time": "1:00 PM EST",
+  "home": "Wake FC",
+  "hg": 2,
+  "ag": 2,
+  "away": "Carolina Core FC",
+  "venue": "Womble Park - Field 2",
   "type": "League"
  },
  {
@@ -7933,6 +8087,17 @@
  {
   "conf": "Southwest",
   "date": "2026-11-21",
+  "time": "4:30 PM PST",
+  "home": "Los Angeles Bulls Soccer Club",
+  "hg": 0,
+  "ag": 0,
+  "away": "Santa Barbara Soccer Club",
+  "venue": "Gol Soccer Complex - West Field",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-21",
   "time": "11:00 AM PST",
   "home": "Los Angeles Football Club",
   "hg": 3,
@@ -7972,6 +8137,94 @@
   "ag": 2,
   "away": "FC Golden State Force",
   "venue": "Irvine Valley College",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-22",
+  "time": "11:00 AM PST",
+  "home": "Albion SC Las Vegas",
+  "hg": 1,
+  "ag": 0,
+  "away": "LA Surf Soccer Club",
+  "venue": "Aventura Park - South Field",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-22",
+  "time": "11:00 AM PST",
+  "home": "City SC - San Diego",
+  "hg": 4,
+  "ag": 1,
+  "away": "SC Del Sol",
+  "venue": "Poinsettia Community Park - Poinsettia Community Park",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-22",
+  "time": "11:00 AM PST",
+  "home": "Las Vegas Sports Academy",
+  "hg": 1,
+  "ag": 1,
+  "away": "ALBION SC San Diego",
+  "venue": "Viper Lacrosse Fields Family Sports Complex - Field 2",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-22",
+  "time": "11:00 AM PST",
+  "home": "Los Angeles Football Club",
+  "hg": 3,
+  "ag": 2,
+  "away": "Albion SC Los Angeles",
+  "venue": "South Grass Training Fields",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-22",
+  "time": "11:00 AM MST",
+  "home": "Phoenix Rising FC",
+  "hg": 1,
+  "ag": 4,
+  "away": "Chula Vista FC",
+  "venue": "Reata Sports Complex - Field 20",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-22",
+  "time": "11:00 AM MST",
+  "home": "RSL Arizona",
+  "hg": 3,
+  "ag": 0,
+  "away": "SoCal Reds FC",
+  "venue": "Bell Road Sports Complex - Field #13",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-22",
+  "time": "11:00 AM MST",
+  "home": "RSL Arizona Mesa",
+  "hg": 0,
+  "ag": 8,
+  "away": "LA Galaxy",
+  "venue": "Bell 94 Sports Complex - Field 16",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-22",
+  "time": "11:00 AM PST",
+  "home": "Total Futbol Academy",
+  "hg": 7,
+  "ag": 1,
+  "away": "Ventura County Fusion",
+  "venue": "Silverlakes Sports Complex - Field 4",
   "type": "League"
  }
 ]
