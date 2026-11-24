@@ -752,8 +752,8 @@
   "date": "2026-11-21",
   "time": "10:00 AM EST",
   "home": "IdeaSport SA",
-  "hg": 3,
-  "ag": 1,
+  "hg": 2,
+  "ag": 2,
   "away": "West Florida Flames",
   "venue": "North East Regional Park - NERP #3",
   "type": "League"
@@ -2587,12 +2587,34 @@
  {
   "conf": "Mid-America",
   "date": "2026-11-22",
+  "time": "12:00 PM EST",
+  "home": "Hoosier Premier",
+  "hg": 2,
+  "ag": 2,
+  "away": "Vardar Soccer Club",
+  "venue": "Hoosier Futbol Club - MSMF",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-11-22",
   "time": "10:00 AM EST",
   "home": "Midwest United FC",
   "hg": 1,
   "ag": 2,
   "away": "Sporting City",
   "venue": "Aquinas College Turf Field - Aquinas College Turf Field",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-America",
+  "date": "2026-11-22",
+  "time": "3:30 PM CST",
+  "home": "St. Louis City SC",
+  "hg": 1,
+  "ag": 0,
+  "away": "St. Louis Scott Gallagher",
+  "venue": "St. Louis City SC - St. Louis City SC Academy Training Center",
   "type": "League"
  },
  {
@@ -3631,6 +3653,17 @@
  },
  {
   "conf": "Mid-Atlantic",
+  "date": "2026-11-20",
+  "time": "6:00 PM EST",
+  "home": "Penn Rising XI",
+  "hg": 0,
+  "ag": 1,
+  "away": "Players Development Academy",
+  "venue": "Capelli Sport Complex - Field #1",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
   "date": "2026-11-21",
   "time": "2:00 PM EST",
   "home": "Coppermine SC",
@@ -3671,6 +3704,17 @@
   "ag": 2,
   "away": "Springfield SYC",
   "venue": "St. Paul's School - St. Paul's Levering Field",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-22",
+  "time": "12:00 PM EST",
+  "home": "FC DELCO",
+  "hg": 2,
+  "ag": 4,
+  "away": "Philadelphia Union",
+  "venue": "The Proving Grounds - 4",
   "type": "League"
  },
  {
@@ -4881,6 +4925,17 @@
   "ag": 1,
   "away": "TSF Academy",
   "venue": "Revolution Training Center Field House",
+  "type": "League"
+ },
+ {
+  "conf": "Northeast",
+  "date": "2026-11-22",
+  "time": "10:00 AM EST",
+  "home": "New York City FC",
+  "hg": 3,
+  "ag": 1,
+  "away": "Cedar Stars Academy Bergen",
+  "venue": "Da Silva Memorial Field",
   "type": "League"
  },
  {
@@ -8104,6 +8159,17 @@
   "ag": 6,
   "away": "Los Angeles Sports Club",
   "venue": "Jesse Owens Stadium - Stadium",
+  "type": "League"
+ },
+ {
+  "conf": "Southwest",
+  "date": "2026-11-21",
+  "time": "10:30 AM MST",
+  "home": "Phoenix Rising FC",
+  "hg": 0,
+  "ag": 5,
+  "away": "LA Galaxy",
+  "venue": "Reata Sports Complex - Field 20",
   "type": "League"
  },
  {

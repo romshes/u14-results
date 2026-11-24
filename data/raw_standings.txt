@@ -2,7 +2,7 @@
 === Florida
 Athletum FC Academy|10|11|2|4|5|18|23
 IMG|13|10|4|1|5|18|18
-IdeaSport SA|17|9|5|2|2|22|12
+IdeaSport SA|15|9|4|3|2|21|13
 Inter Miami CF|17|7|5|2|0|13|2
 Jacksonville FC|11|8|3|2|3|13|17
 Miami Futbol Academy Rush|20|9|6|2|1|16|8
@@ -13,7 +13,7 @@ Seminole United|3|8|1|0|7|7|34
 Sol SC Florida|9|10|2|3|5|18|26
 South Florida Football Academy|6|10|2|0|8|13|25
 Tampa Bay United|9|8|3|0|5|12|20
-West Florida Flames|14|13|4|2|7|19|26
+West Florida Flames|15|13|4|3|6|20|25
 Weston FC|27|12|8|3|1|32|11
 === Frontier
 AC River|4|11|0|4|7|11|26
@@ -35,7 +35,7 @@ Chicago FC United|13|12|4|1|7|27|33
 Cincinnati United Soccer Club|19|13|6|1|6|24|24
 Club Ohio|18|14|4|6|4|26|25
 FC Cincinnati|17|14|5|2|7|31|32
-Hoosier Premier|4|12|1|1|10|16|40
+Hoosier Premier|5|13|1|2|10|18|42
 Indy Eleven|26|13|8|2|3|34|28
 Lou Fusz Athletic|14|11|4|2|5|18|24
 Michigan Jaguars|23|12|7|2|3|26|19
@@ -44,9 +44,9 @@ Midwest United FC|16|13|5|1|7|24|25
 SC Wave|7|12|2|1|9|18|42
 Sockers FC Chicago|20|10|6|2|2|17|12
 Sporting City|17|10|5|2|3|22|16
-St. Louis City SC|21|9|6|3|0|28|5
-St. Louis Scott Gallagher|14|10|4|2|4|18|16
-Vardar Soccer Club|12|13|4|0|9|19|29
+St. Louis City SC|24|10|7|3|0|29|5
+St. Louis Scott Gallagher|14|11|4|2|5|18|17
+Vardar Soccer Club|13|14|4|1|9|21|31
 === Mid-Atlantic
 Achilles FC|3|8|1|0|7|6|35
 Alexandria SA|19|11|6|1|4|25|20
@@ -55,13 +55,13 @@ Beadling SC|8|11|2|2|7|10|34
 Bethesda SC|8|11|2|2|7|7|29
 Cedar Stars Academy Monmouth|16|10|5|1|4|25|27
 Coppermine SC|8|10|2|2|6|7|16
-FC DELCO|28|10|9|1|0|34|5
+FC DELCO|28|11|9|1|1|36|9
 Keystone FC|4|13|1|1|11|7|43
 Northern Virginia Alliance|21|12|7|0|5|35|19
 PA Classics|5|11|1|2|8|8|36
-Penn Rising XI|16|9|5|1|3|15|12
-Philadelphia Union|33|11|11|0|0|75|0
-Players Development Academy|10|11|3|1|7|16|32
+Penn Rising XI|16|10|5|1|4|15|13
+Philadelphia Union|36|12|12|0|0|79|2
+Players Development Academy|13|12|4|1|7|17|32
 Real Futbol Academy|23|11|7|2|2|26|10
 Sporting Athletic Club|16|12|4|4|4|20|22
 Springfield SYC|17|10|5|2|3|15|10
@@ -70,7 +70,7 @@ The Football Academy|18|11|6|0|5|25|16
 Bayside FC|7|12|2|1|9|16|43
 Beachside of Connecticut|16|10|5|1|4|28|24
 Blau Weiss Gottschee|7|11|2|1|8|23|46
-Cedar Stars Academy Bergen|18|10|5|3|2|30|15
+Cedar Stars Academy Bergen|18|11|5|3|3|31|18
 Connecticut United FC|11|8|3|2|3|15|14
 Downtown United Soccer Club|13|12|4|1|7|29|50
 FA Euro New York|7|11|2|1|8|19|51
@@ -81,7 +81,7 @@ Ironbound Soccer Club|13|13|3|4|6|23|42
 Metropolitan Oval|23|12|7|2|3|25|15
 NEFC|14|11|4|2|5|27|16
 New England Revolution|28|11|9|1|1|41|20
-New York City FC|33|11|11|0|0|85|12
+New York City FC|36|12|12|0|0|88|13
 New York SC|22|11|7|1|3|40|21
 Seacoast United|10|11|3|1|7|17|27
 TSF Academy|12|9|4|0|5|35|33
@@ -127,13 +127,13 @@ Chula Vista FC|19|11|6|1|4|31|26
 City SC - San Diego|18|12|5|3|4|44|19
 City SC Southwest|7|13|2|1|10|23|51
 FC Golden State Force|23|12|6|5|1|26|11
-LA Galaxy|30|13|9|3|1|53|16
+LA Galaxy|33|14|10|3|1|58|16
 Las Vegas Sports Academy|24|15|7|3|5|34|40
 Los Angeles Bulls Soccer Club|10|12|3|1|8|19|35
 Los Angeles Football Club|4|13|1|1|11|23|61
 Los Angeles Sports Club|34|13|11|1|1|47|19
 LA Surf Soccer Club|26|14|8|2|4|62|23
-Phoenix Rising FC|3|11|1|0|10|12|40
+Phoenix Rising FC|3|12|1|0|11|12|45
 RSL Arizona|27|14|8|3|3|38|25
 RSL Arizona Mesa|3|13|1|0|12|8|88
 SC Del Sol|10|13|2|4|7|29|41
