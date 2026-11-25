@@ -51,9 +51,9 @@ Vardar Soccer Club|13|14|4|1|9|21|31
 Achilles FC|3|8|1|0|7|6|35
 Alexandria SA|19|11|6|1|4|25|20
 Baltimore Armour|29|14|9|2|3|27|17
-Beadling SC|8|11|2|2|7|10|34
+Beadling SC|8|12|2|2|8|11|36
 Bethesda SC|8|11|2|2|7|7|29
-Cedar Stars Academy Monmouth|16|10|5|1|4|25|27
+Cedar Stars Academy Monmouth|19|11|6|1|4|27|28
 Coppermine SC|8|10|2|2|6|7|16
 FC DELCO|28|11|9|1|1|36|9
 Keystone FC|4|13|1|1|11|7|43
@@ -110,10 +110,10 @@ Carolina Core FC|17|10|4|5|1|29|11
 Charlotte Independence Soccer Club|31|14|10|1|3|36|19
 Chattanooga FC|17|12|5|2|5|26|20
 Hoover-Vestavia Soccer|0|9|0|0|9|7|50
-Huntsville City FC|13|10|4|1|5|15|16
+Huntsville City FC|15|10|5|0|5|16|16
 Inter Atlanta FC|28|13|8|4|1|41|13
 KSA|16|12|5|1|6|13|24
-Lanier Soccer Association|10|10|3|1|6|15|25
+Lanier Soccer Association|9|10|3|0|7|15|26
 Nashville United Soccer Academy (NUSA Next)|11|12|3|2|7|13|28
 Queen City Mutiny FC|16|13|5|1|7|26|29
 Southern Soccer Academy|15|12|4|3|5|11|23

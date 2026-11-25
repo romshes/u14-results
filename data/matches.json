@@ -3698,6 +3698,17 @@
  {
   "conf": "Mid-Atlantic",
   "date": "2026-11-22",
+  "time": "11:00 AM EST",
+  "home": "Beadling SC",
+  "hg": 1,
+  "ag": 2,
+  "away": "Cedar Stars Academy Monmouth",
+  "venue": "Seneca Valley High School - Myers Field",
+  "type": "League"
+ },
+ {
+  "conf": "Mid-Atlantic",
+  "date": "2026-11-22",
   "time": "12:00 PM EST",
   "home": "Coppermine SC",
   "hg": 0,
@@ -6615,7 +6626,7 @@
   "date": "2026-11-21",
   "time": "10:00 AM CST",
   "home": "Huntsville City FC",
-  "hg": 0,
+  "hg": 1,
   "ag": 0,
   "away": "Lanier Soccer Association",
   "venue": "John Hunt Complex - Field 3",
